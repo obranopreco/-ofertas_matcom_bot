@@ -1,0 +1,36 @@
+{
+  "produtos": [
+    {
+      "id": "furadeira_bosch_gsb",
+      "nome": "Furadeira de Impacto Bosch GSB 13 RE",
+      "preco_atual": 349.90,
+      "link_afiliado": "https://shopee.com.br/exemplo-furadeira-bosch?af_id=SEU_ID_AQUI",
+      "loja_tipo": "mall",
+      "loja_nota": 4.9
+    },
+    {
+      "id": "trena_laser_makita",
+      "nome": "Trena a Laser Makita 30m",
+      "preco_atual": 189.00,
+      "link_afiliado": "https://shopee.com.br/exemplo-trena-makita?af_id=SEU_ID_AQUI",
+      "loja_tipo": "star_plus",
+      "loja_nota": 4.9
+    },
+    {
+      "id": "parafusadeira_tramontina",
+      "nome": "Parafusadeira/Furadeira Tramontina 12V",
+      "preco_atual": 259.90,
+      "link_afiliado": "https://shopee.com.br/exemplo-parafusadeira?af_id=SEU_ID_AQUI",
+      "loja_tipo": "comum",
+      "loja_nota": 4.2
+    },
+    {
+      "id": "nivel_laser_bosch",
+      "nome": "Nível a Laser Bosch GLL 50",
+      "preco_atual": 299.00,
+      "link_afiliado": "https://shopee.com.br/exemplo-nivel-bosch?af_id=SEU_ID_AQUI",
+      "loja_tipo": "star",
+      "loja_nota": 4.85
+    }
+  ]
+}
