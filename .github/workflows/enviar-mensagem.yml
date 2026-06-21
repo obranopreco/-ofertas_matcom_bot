@@ -1,37 +1,43 @@
-name: Enviar mensagem de teste para o Telegram
+name: Rastreador de Ofertas
 
 # "on" define QUANDO esse robô deve rodar
 on:
   # Permite rodar manualmente, clicando num botão no GitHub (ótimo para testar)
   workflow_dispatch:
 
-  # Roda automaticamente em um horário (formato cron, em UTC)
-  # "0 12 * * *" = todo dia às 12:00 UTC (09:00 no horário de Brasília)
+  # Roda automaticamente a cada 1 hora
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 * * * *"
 
 jobs:
-  enviar-mensagem:
-    runs-on: ubuntu-latest  # o "computador temporário" que o GitHub liga pra gente
+  checar-precos:
+    runs-on: ubuntu-latest
 
     steps:
-      # Passo 1: baixa o código do seu repositório para esse computador temporário
       - name: Baixar código
         uses: actions/checkout@v4
 
-      # Passo 2: instala o Python
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # Passo 3: instala a biblioteca "requests", que o script usa
       - name: Instalar dependências
         run: pip install requests
 
-      # Passo 4: executa o script, passando os Secrets como variáveis de ambiente
-      - name: Executar script
+      - name: Executar rastreador
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python enviar_telegram.py
+        run: python rastreador.py
+
+      # Esse passo salva o histórico atualizado de volta no repositório.
+      # Sem isso, a cada execução o histórico seria perdido (o GitHub Actions
+      # roda em uma máquina "descartável" que não guarda nada sozinha).
+      - name: Salvar histórico atualizado
+        run: |
+          git config user.name "Rastreador Bot"
+          git config user.email "bot@rastreador.local"
+          git add historico_precos.json
+          git diff --staged --quiet || git commit -m "Atualiza histórico de preços"
+          git push
