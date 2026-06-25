@@ -75,12 +75,14 @@ def main():
     for palavra in palavras_chave:
         print(f"\nBuscando: '{palavra}'...")
         produtos = buscar_produtos_shopee(palavra, limite=10)
+        print(f"  -> A API retornou {len(produtos)} produto(s) para essa busca.")
 
         for produto in produtos:
             id_produto = str(produto["itemId"])
             nome_produto = produto["productName"]
 
             if not vendedor_aprovado(produto):
+                print(f"  [REPROVADO] '{nome_produto}' -- shopType={produto.get('shopType')}, ratingStar={produto.get('ratingStar')}")
                 continue
 
             preco_novo = float(produto["priceMin"])
