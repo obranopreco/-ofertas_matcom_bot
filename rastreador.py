@@ -45,9 +45,10 @@ def enviar_mensagem(texto):
 def vendedor_aprovado(produto):
     """Verifica se a loja do produto atende aos criterios minimos de qualidade."""
     tipos_da_loja = produto.get("shopType") or []
-    # shopType vem como uma lista (uma loja pode ser Mall E Star ao mesmo tempo, por exemplo)
     tipo_ok = any(tipo in TIPOS_LOJA_ACEITOS for tipo in tipos_da_loja)
-    nota = produto.get("ratingStar") or 0
+    # ratingStar pode vir como texto (ex: "4.9") em vez de número, então convertemos
+    nota_bruta = produto.get("ratingStar")
+    nota = float(nota_bruta) if nota_bruta else 0
     nota_ok = nota >= NOTA_MINIMA
     return tipo_ok and nota_ok
 
