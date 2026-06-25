@@ -43,14 +43,12 @@ def enviar_mensagem(texto):
 
 
 def vendedor_aprovado(produto):
-    """Verifica se a loja do produto atende aos criterios minimos de qualidade."""
-    tipos_da_loja = produto.get("shopType") or []
-    tipo_ok = any(tipo in TIPOS_LOJA_ACEITOS for tipo in tipos_da_loja)
-    # ratingStar pode vir como texto (ex: "4.9") em vez de número, então convertemos
+    """Verifica se a loja do produto atende ao criterio minimo de qualidade.
+    Por enquanto, usamos so a nota (ratingStar), ja que os valores de shopType
+    retornados pela API nao tem documentacao clara o suficiente para confiarmos neles."""
     nota_bruta = produto.get("ratingStar")
     nota = float(nota_bruta) if nota_bruta else 0
-    nota_ok = nota >= NOTA_MINIMA
-    return tipo_ok and nota_ok
+    return nota >= NOTA_MINIMA
 
 
 def montar_mensagem(produto, preco_antigo, preco_novo):
@@ -82,7 +80,7 @@ def main():
             nome_produto = produto["productName"]
 
             if not vendedor_aprovado(produto):
-                print(f"  [REPROVADO] '{nome_produto}' -- shopType={produto.get('shopType')}, ratingStar={produto.get('ratingStar')}")
+                print(f"  [REPROVADO] '{nome_produto}' -- ratingStar={produto.get('ratingStar')}")
                 continue
 
             preco_novo = float(produto["priceMin"])
