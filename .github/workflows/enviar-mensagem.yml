@@ -1,11 +1,7 @@
 name: Rastreador de Ofertas
 
-# "on" define QUANDO esse robô deve rodar
 on:
-  # Permite rodar manualmente, clicando num botão no GitHub (ótimo para testar)
   workflow_dispatch:
-
-  # Roda automaticamente a cada 1 hora
   schedule:
     - cron: "0 * * * *"
 
@@ -29,11 +25,10 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_APP_SECRET: ${{ secrets.SHOPEE_APP_SECRET }}
         run: python rastreador.py
 
-      # Esse passo salva o histórico atualizado de volta no repositório.
-      # Sem isso, a cada execução o histórico seria perdido (o GitHub Actions
-      # roda em uma máquina "descartável" que não guarda nada sozinha).
       - name: Salvar histórico atualizado
         run: |
           git config user.name "Rastreador Bot"
