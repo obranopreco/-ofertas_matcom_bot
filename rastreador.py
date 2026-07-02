@@ -1,7 +1,6 @@
 import os
 import json
 import requests
-
 from shopee_api import buscar_produtos_shopee
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
@@ -13,7 +12,7 @@ ARQUIVO_HISTORICO = "historico_precos.json"
 # Critérios de qualidade do vendedor: só aceitamos produtos
 # de lojas nesses tipos E com nota igual ou maior que a mínima.
 TIPOS_LOJA_ACEITOS = {1, 4, 5}  # Mall, Star, Star+ (conforme shopType da API)
-NOTA_MINIMA = 4.8
+NOTA_MINIMA = 4.5
 
 # Queda mínima para considerar "oferta" e disparar alerta (evita alertar por R$0,01)
 DESCONTO_MINIMO_PERCENTUAL = 5
@@ -54,7 +53,6 @@ def vendedor_aprovado(produto):
 def montar_mensagem(produto, preco_antigo, preco_novo):
     """Monta o texto do alerta de queda de preco, ja com o aviso de publicidade exigido pelo CONAR."""
     desconto_percentual = ((preco_antigo - preco_novo) / preco_antigo) * 100
-
     texto = (
         f"📉 <b>BAIXOU DE PREÇO!</b>\n\n"
         f"🔧 {produto['productName']}\n"
@@ -72,7 +70,7 @@ def main():
 
     for palavra in palavras_chave:
         print(f"\nBuscando: '{palavra}'...")
-        produtos = buscar_produtos_shopee(palavra, limite=10)
+        produtos = buscar_produtos_shopee(palavra, limite=20)
         print(f"  -> A API retornou {len(produtos)} produto(s) para essa busca.")
 
         for produto in produtos:
