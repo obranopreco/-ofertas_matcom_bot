@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+from datetime import datetime
 
 from shopee_api import buscar_produtos_shopee
 
@@ -9,14 +10,13 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 ARQUIVO_PALAVRAS_CHAVE = "palavras_chave.json"
 ARQUIVO_HISTORICO = "historico_precos.json"
+ARQUIVO_OFERTAS = "ofertas_recentes.json"
 
-# Critérios de qualidade do vendedor: só aceitamos produtos
-# de lojas nesses tipos E com nota igual ou maior que a mínima.
-TIPOS_LOJA_ACEITOS = {1, 4, 5}  # Mall, Star, Star+ (conforme shopType da API)
+TIPOS_LOJA_ACEITOS = {1, 4, 5}
 NOTA_MINIMA = 0  # sem filtro de nota, aceita todos os vendedores
 
-# Queda mínima para considerar "oferta" e disparar alerta (evita alertar por R$0,01)
 DESCONTO_MINIMO_PERCENTUAL = 5
+MAX_OFERTAS_RECENTES = 20  # quantas ofertas manter no arquivo do site
 
 
 def carregar_json(caminho):
@@ -42,19 +42,49 @@ def enviar_mensagem(texto):
         print(f"Erro ao enviar mensagem: {resposta.text}")
 
 
+def salvar_oferta_site(produto, preco_antigo, preco_novo):
+    """Salva a oferta detectada no arquivo que o site WordPress vai ler."""
+    desconto_percentual = ((preco_antigo - preco_novo) / preco_antigo) * 100
+
+    # Tenta carregar ofertas existentes; se o arquivo não existir, começa do zero
+    try:
+        ofertas = carregar_json(ARQUIVO_OFERTAS)
+    except FileNotFoundError:
+        ofertas = []
+
+    # Monta o objeto da nova oferta
+    nova_oferta = {
+        "id": str(produto["itemId"]),
+        "nome": produto["productName"],
+        "imagem": produto.get("imageUrl", ""),
+        "preco_antigo": round(preco_antigo, 2),
+        "preco_novo": round(preco_novo, 2),
+        "desconto_percentual": round(desconto_percentual, 0),
+        "link_afiliado": produto["offerLink"],
+        "detectada_em": datetime.utcnow().strftime("%d/%m/%Y %H:%M UTC")
+    }
+
+    # Remove essa oferta se já existia antes (pra evitar duplicata)
+    ofertas = [o for o in ofertas if o["id"] != nova_oferta["id"]]
+
+    # Adiciona a nova oferta no topo da lista
+    ofertas.insert(0, nova_oferta)
+
+    # Mantém só as últimas MAX_OFERTAS_RECENTES
+    ofertas = ofertas[:MAX_OFERTAS_RECENTES]
+
+    salvar_json(ARQUIVO_OFERTAS, ofertas)
+    print(f"  -> Oferta salva em '{ARQUIVO_OFERTAS}' para exibir no site.")
+
+
 def vendedor_aprovado(produto):
-    """Verifica se a loja do produto atende ao criterio minimo de qualidade.
-    Por enquanto, usamos so a nota (ratingStar), ja que os valores de shopType
-    retornados pela API nao tem documentacao clara o suficiente para confiarmos neles."""
     nota_bruta = produto.get("ratingStar")
     nota = float(nota_bruta) if nota_bruta else 0
     return nota >= NOTA_MINIMA
 
 
 def montar_mensagem(produto, preco_antigo, preco_novo):
-    """Monta o texto do alerta de queda de preco, ja com o aviso de publicidade exigido pelo CONAR."""
     desconto_percentual = ((preco_antigo - preco_novo) / preco_antigo) * 100
-
     texto = (
         f"📉 <b>BAIXOU DE PREÇO!</b>\n\n"
         f"🔧 {produto['productName']}\n"
@@ -80,7 +110,6 @@ def main():
             nome_produto = produto["productName"]
 
             if not vendedor_aprovado(produto):
-                print(f"  [REPROVADO] '{nome_produto}' -- ratingStar={produto.get('ratingStar')}")
                 continue
 
             preco_novo = float(produto["priceMin"])
@@ -94,6 +123,7 @@ def main():
                     print(f"Oferta real! '{nome_produto}': R$ {preco_antigo:.2f} -> R$ {preco_novo:.2f}")
                     mensagem = montar_mensagem(produto, preco_antigo, preco_novo)
                     enviar_mensagem(mensagem)
+                    salvar_oferta_site(produto, preco_antigo, preco_novo)
                 else:
                     print(f"Sem oferta relevante para '{nome_produto}' (R$ {preco_novo:.2f}).")
 
