@@ -90,7 +90,7 @@ def buscar_produtos_shopee(palavra_chave, limite=20):
 
 if __name__ == "__main__":
     # Teste rápido: busca produtos com a palavra-chave "furadeira"
-    resultados = buscar_produtos_shopee("furadeira", limite=5)
+    resultados = buscar_produtos_shopee("furadeira", limite=20)
     print(f"Encontrados {len(resultados)} produtos:")
     for produto in resultados:
         print(f"- {produto['productName']} | R$ {produto['priceMin']} | nota {produto['ratingStar']} | tipo {produto['shopType']}")
