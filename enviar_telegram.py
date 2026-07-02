@@ -1,29 +1,38 @@
-import os
-import requests
+name: Rastreador de Ofertas
 
-# O token e o ID do canal NÃO ficam escritos aqui no código.
-# Eles vêm de "variáveis de ambiente" -- valores guardados
-# de forma segura no GitHub (vamos configurar isso no próximo passo).
-TOKEN = os.environ["TELEGRAM_TOKEN"]
-CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
 
+jobs:
+  checar-precos:
+    runs-on: ubuntu-latest
 
-def enviar_mensagem(texto):
-    """Envia uma mensagem de texto para o canal do Telegram."""
-    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-    dados = {
-        "chat_id": CHAT_ID,
-        "text": texto,
-        "parse_mode": "HTML",  # permite usar <b>negrito</b>, <a href="">links</a>, etc
-    }
-    resposta = requests.post(url, data=dados)
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
 
-    if resposta.status_code == 200:
-        print("Mensagem enviada com sucesso!")
-    else:
-        print(f"Erro ao enviar mensagem: {resposta.text}")
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
+      - name: Instalar dependências
+        run: pip install requests
 
-# Esse bloco só roda quando executamos este arquivo diretamente
-if __name__ == "__main__":
-    enviar_mensagem("🤖 Teste automático via GitHub Actions! Se você está vendo isso, funcionou.")
+      - name: Executar rastreador
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_APP_SECRET: ${{ secrets.SHOPEE_APP_SECRET }}
+        run: python rastreador.py
+
+      - name: Salvar histórico atualizado
+        run: |
+          git config user.name "Rastreador Bot"
+          git config user.email "bot@rastreador.local"
+          git add historico_precos.json ofertas_recentes.json
+          git diff --staged --quiet || git commit -m "Atualiza histórico de preços"
+          git push
