@@ -1,41 +1,21 @@
-name: Rastreador de Ofertas
+import os
+import requests
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 * * * *"
+TOKEN = os.environ["TELEGRAM_TOKEN"]
+CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
-jobs:
-  checar-precos:
-    runs-on: ubuntu-latest
+def enviar_mensagem(texto):
+    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+    dados = {
+        "chat_id": CHAT_ID,
+        "text": texto,
+        "parse_mode": "HTML",
+    }
+    resposta = requests.post(url, data=dados)
+    if resposta.status_code == 200:
+        print("Mensagem enviada com sucesso!")
+    else:
+        print(f"Erro ao enviar mensagem: {resposta.text}")
 
-    steps:
-      - name: Baixar código
-        uses: actions/checkout@v4
-
-      - name: Configurar Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Instalar dependências
-        run: pip install requests
-
-      - name: Executar rastreador
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
-          SHOPEE_APP_SECRET: ${{ secrets.SHOPEE_APP_SECRET }}
-        run: python rastreador.py
-
-      - name: Salvar histórico atualizado
-        run: |
-          echo "=== Conteúdo do ofertas_recentes.json ==="
-          cat ofertas_recentes.json
-          echo "========================================="
-          git config user.name "Rastreador Bot"
-          git config user.email "bot@rastreador.local"
-          git add historico_precos.json ofertas_recentes.json
-          git diff --staged --quiet || git commit -m "Atualiza histórico de preços"
-          git push
+if __name__ == "__main__":
+    enviar_mensagem("🤖 Teste automático via GitHub Actions! Se você está vendo isso, funcionou.")
