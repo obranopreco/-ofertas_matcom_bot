@@ -31,6 +31,9 @@ jobs:
 
       - name: Salvar histórico atualizado
         run: |
+          echo "=== Conteúdo do ofertas_recentes.json ==="
+          cat ofertas_recentes.json
+          echo "========================================="
           git config user.name "Rastreador Bot"
           git config user.email "bot@rastreador.local"
           git add historico_precos.json ofertas_recentes.json
