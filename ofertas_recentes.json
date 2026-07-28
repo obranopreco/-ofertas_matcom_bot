@@ -1,4 +1,83 @@
-[
+[{
+    "id": "meli-1nSSFAX",
+    "nome": "Parafusadeira e Furadeira de Impacto WF 12K3.2 WAP",
+    "imagem": "COLE_AQUI_URL_DA_IMAGEM",
+    "preco_antigo": 196.00,
+    "preco_novo": 142.45,
+    "desconto_percentual": 27,
+    "link_afiliado": "https://meli.la/1nSSFAX",
+    "detectada_em": "27/07/2026 20:00 UTC"
+  },
+  {
+    "id": "meli-2CSYWRs",
+    "nome": "Efeito Cimento Queimado Revestimento Maza 5,6kg - Cores",
+    "imagem": "COLE_AQUI_URL_DA_IMAGEM",
+    "preco_antigo": 119.99,
+    "preco_novo": 113.99,
+    "desconto_percentual": 5,
+    "link_afiliado": "https://meli.la/2CSYWRs",
+    "detectada_em": "27/07/2026 19:55 UTC"
+  },
+  {
+    "id": "meli-27FR69X",
+    "nome": "Esmerilhadeira Angular Makita 115mm 220V 850W Azul M9510B",
+    "imagem": "COLE_AQUI_URL_DA_IMAGEM",
+    "preco_antigo": 399.90,
+    "preco_novo": 309.90,
+    "desconto_percentual": 22,
+    "link_afiliado": "https://meli.la/27FR69X",
+    "detectada_em": "27/07/2026 19:50 UTC"
+  },
+  {
+    "id": "meli-2i2TDD2",
+    "nome": "Martelete Furadeira SDS GBH 2-24D 820W + Maleta Bosch Azul",
+    "imagem": "COLE_AQUI_URL_DA_IMAGEM",
+    "preco_antigo": 1189.00,
+    "preco_novo": 846.60,
+    "desconto_percentual": 28,
+    "link_afiliado": "https://meli.la/2i2TDD2",
+    "detectada_em": "27/07/2026 19:45 UTC"
+  },
+  {
+    "id": "meli-1MHb82j",
+    "nome": "Serra Esquadrilha DeWalt DWS715 12 Polegadas com 80 Dentes",
+    "imagem": "COLE_AQUI_URL_DA_IMAGEM",
+    "preco_antigo": 4399.48,
+    "preco_novo": 3739.00,
+    "desconto_percentual": 15,
+    "link_afiliado": "https://meli.la/1MHb82j",
+    "detectada_em": "27/07/2026 19:40 UTC"
+  },
+  {
+    "id": "meli-279qort",
+    "nome": "Furadeira de Rotação 5/8 GBM 1600 RE 850W 0-630 RPM Azul",
+    "imagem": "COLE_AQUI_URL_DA_IMAGEM",
+    "preco_antigo": 1505.64,
+    "preco_novo": 1129.23,
+    "desconto_percentual": 25,
+    "link_afiliado": "https://meli.la/279qort",
+    "detectada_em": "27/07/2026 19:35 UTC"
+  },
+  {
+    "id": "meli-1qd91U3",
+    "nome": "Bosch Jogo Brocas Alvenaria/Metal/Madeira 3-8 X-Line 15 Pçs",
+    "imagem": "COLE_AQUI_URL_DA_IMAGEM",
+    "preco_antigo": 79.90,
+    "preco_novo": 75.90,
+    "desconto_percentual": 5,
+    "link_afiliado": "https://meli.la/1qd91U3",
+    "detectada_em": "27/07/2026 19:30 UTC"
+  },
+  {
+    "id": "meli-2idVUwp",
+    "nome": "Kit Mandril Chave 1/2 Rosca 1,5-13mm + Adaptador de Impacto",
+    "imagem": "COLE_AQUI_URL_DA_IMAGEM",
+    "preco_antigo": 75.02,
+    "preco_novo": 23.26,
+    "desconto_percentual": 68,
+    "link_afiliado": "https://meli.la/2idVUwp",
+    "detectada_em": "27/07/2026 19:25 UTC"
+  },
   {
     "id": "53505505049",
     "nome": "Nível a laser 4D 16 Linhas Maleta e Tripé Manivela NL-1632 80M",
