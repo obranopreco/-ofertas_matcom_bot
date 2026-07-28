@@ -1,9 +1,19 @@
 [
   {
+    "id": "19399589268",
+    "nome": "Tinta Acrilica Eucatex Premium Extra Piso Galão 3,6l - Cores",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mqhlgbifk6bm79",
+    "preco_antigo": 85.9,
+    "preco_novo": 67.84,
+    "desconto_percentual": 21.0,
+    "link_afiliado": "https://s.shopee.com.br/1gHJRbQCUp",
+    "detectada_em": "28/07/2026 03:21 UTC"
+  },
+  {
     "id": "meli-1nSSFAX",
     "nome": "Parafusadeira e Furadeira de Impacto WF 12K3.2 WAP",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_758390-MLA99962176263_112025-O.webp",
-    "preco_antigo": 196.00,
+    "preco_antigo": 196.0,
     "preco_novo": 142.45,
     "desconto_percentual": 27,
     "link_afiliado": "https://meli.la/1nSSFAX",
@@ -23,8 +33,8 @@
     "id": "meli-27FR69X",
     "nome": "Esmerilhadeira Angular Makita 115mm 220V 850W Azul M9510B",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_786954-MLA99508488746_112025-O.webp",
-    "preco_antigo": 399.90,
-    "preco_novo": 309.90,
+    "preco_antigo": 399.9,
+    "preco_novo": 309.9,
     "desconto_percentual": 22,
     "link_afiliado": "https://meli.la/27FR69X",
     "detectada_em": "27/07/2026 19:50 UTC"
@@ -33,8 +43,8 @@
     "id": "meli-2i2TDD2",
     "nome": "Martelete Furadeira SDS GBH 2-24D 820W + Maleta Bosch Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_978867-MLA95520684282_102025-O.webp",
-    "preco_antigo": 1189.00,
-    "preco_novo": 846.60,
+    "preco_antigo": 1189.0,
+    "preco_novo": 846.6,
     "desconto_percentual": 28,
     "link_afiliado": "https://meli.la/2i2TDD2",
     "detectada_em": "27/07/2026 19:45 UTC"
@@ -44,7 +54,7 @@
     "nome": "Serra Esquadrilha DeWalt DWS715 12 Polegadas com 80 Dentes",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_610255-MLA99943517493_112025-O.webp",
     "preco_antigo": 4399.48,
-    "preco_novo": 3739.00,
+    "preco_novo": 3739.0,
     "desconto_percentual": 15,
     "link_afiliado": "https://meli.la/1MHb82j",
     "detectada_em": "27/07/2026 19:40 UTC"
@@ -63,8 +73,8 @@
     "id": "meli-1qd91U3",
     "nome": "Bosch Jogo Brocas Alvenaria/Metal/Madeira 3-8 X-Line 15 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_960800-MLB82007225322_022025-O-bosch-jogo-brocas-alvenariametalmadeira-38-xline-15-pcs.webp",
-    "preco_antigo": 79.90,
-    "preco_novo": 75.90,
+    "preco_antigo": 79.9,
+    "preco_novo": 75.9,
     "desconto_percentual": 5,
     "link_afiliado": "https://meli.la/1qd91U3",
     "detectada_em": "27/07/2026 19:30 UTC"
@@ -140,16 +150,6 @@
     "detectada_em": "23/07/2026 04:21 UTC"
   },
   {
-    "id": "19399589268",
-    "nome": "Tinta Acrilica Eucatex Premium Extra Piso Galão 3,6l - Cores",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mqhlgbifk6bm79",
-    "preco_antigo": 85.9,
-    "preco_novo": 67.85,
-    "desconto_percentual": 21.0,
-    "link_afiliado": "https://s.shopee.com.br/7KvXEwDPQv",
-    "detectada_em": "21/07/2026 04:20 UTC"
-  },
-  {
     "id": "22198345907",
     "nome": "Nível Laser 4D de 16 Linhas IP54 auto nivelamento Medição Inclinada FEPRO-NL1622 EXBOM",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7fi29te50lo67",
@@ -198,85 +198,5 @@
     "desconto_percentual": 10.0,
     "link_afiliado": "https://s.shopee.com.br/40euFiA6dF",
     "detectada_em": "14/07/2026 20:43 UTC"
-  },
-  {
-    "id": "22197931739",
-    "nome": "Serra Circular Sem Fio 1200W Recarregável Com Motor Brushless 6 Polegadas 8 Discos MQL-SC1206 EXBOM",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18hja7s6e9sfa",
-    "preco_antigo": 699.0,
-    "preco_novo": 559.2,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/8KnrO7jL4g",
-    "detectada_em": "13/07/2026 18:13 UTC"
-  },
-  {
-    "id": "21899384773",
-    "nome": "Furadeira e Parafusadeira Sem Fio Recarregável 36V com 2 Baterias e Maleta MQL-PFX5600 EXBOM",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m05ug5wmd60t56",
-    "preco_antigo": 255.0,
-    "preco_novo": 229.5,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/5VTi2SibTD",
-    "detectada_em": "13/07/2026 18:13 UTC"
-  },
-  {
-    "id": "21455455470",
-    "nome": "Mini Parafusadeira sem Fio Recarregável USB com Maleta 49 peças  MQL-PFU49A EXBOM",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo8fvivweaaxf8",
-    "preco_antigo": 76.9,
-    "preco_novo": 59.9,
-    "desconto_percentual": 22.0,
-    "link_afiliado": "https://s.shopee.com.br/60PydNghSE",
-    "detectada_em": "13/07/2026 18:13 UTC"
-  },
-  {
-    "id": "7173285878",
-    "nome": "KIT 4 EM 1",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-23030-pv1c8rdv6vov46",
-    "preco_antigo": 35.9,
-    "preco_novo": 28.99,
-    "desconto_percentual": 19.0,
-    "link_afiliado": "https://s.shopee.com.br/60PrdZiMsN",
-    "detectada_em": "10/07/2026 21:40 UTC"
-  },
-  {
-    "id": "23093644264",
-    "nome": "Trena a Laser Medidor de Distancia 20 Metros Dewalt DW065E",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra0l-m53605gifmgwc7",
-    "preco_antigo": 439.51,
-    "preco_novo": 364.8,
-    "desconto_percentual": 17.0,
-    "link_afiliado": "https://s.shopee.com.br/AUsIhf3V42",
-    "detectada_em": "10/07/2026 21:40 UTC"
-  },
-  {
-    "id": "22898555150",
-    "nome": "Trena a Laser Medidor de Distancia 150 Metros Bosch GLM 150-27C 0601072Z00",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7raua-maees8yfbnf4f2",
-    "preco_antigo": 3698.89,
-    "preco_novo": 3070.08,
-    "desconto_percentual": 17.0,
-    "link_afiliado": "https://s.shopee.com.br/5LACYANAY5",
-    "detectada_em": "10/07/2026 17:30 UTC"
-  },
-  {
-    "id": "23394056323",
-    "nome": "Trena a Laser Medidor de Distancia 100 Metros Bosch GLM 100-25C 0601072Y00",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823py-mp16mvgsf18re7",
-    "preco_antigo": 2674.44,
-    "preco_novo": 2219.79,
-    "desconto_percentual": 17.0,
-    "link_afiliado": "https://s.shopee.com.br/AKYsVM48P1",
-    "detectada_em": "10/07/2026 17:30 UTC"
-  },
-  {
-    "id": "22994179810",
-    "nome": "Óculos de Sol Redondo Soldador Steampunk Retrô com Proteção Lateral uv400 Masculino Feminino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbibgg4wr5vc27",
-    "preco_antigo": 59.99,
-    "preco_novo": 54.99,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/2qSjsqLQdL",
-    "detectada_em": "07/07/2026 10:15 UTC"
   }
 ]
