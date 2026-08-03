@@ -1,5 +1,35 @@
 [
   {
+    "id": "22898555150",
+    "nome": "Trena a Laser Medidor de Distancia 150 Metros Bosch GLM 150-27C 0601072Z00",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7raua-maees8yfbnf4f2",
+    "preco_antigo": 3698.89,
+    "preco_novo": 3033.09,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/40fPRkMf7s",
+    "detectada_em": "03/08/2026 12:32 UTC"
+  },
+  {
+    "id": "23093644264",
+    "nome": "Trena a Laser Medidor de Distancia 20 Metros Dewalt DW065E",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra0l-m53605gifmgwc7",
+    "preco_antigo": 439.51,
+    "preco_novo": 360.4,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/4qEWRHJUQz",
+    "detectada_em": "03/08/2026 12:32 UTC"
+  },
+  {
+    "id": "23394056323",
+    "nome": "Trena a Laser Medidor de Distancia 100 Metros Bosch GLM 100-25C 0601072Y00",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823py-mp16mvgsf18re7",
+    "preco_antigo": 2674.44,
+    "preco_novo": 2193.05,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/50XwdaIr62",
+    "detectada_em": "03/08/2026 12:32 UTC"
+  },
+  {
     "id": "23694225383",
     "nome": "Capacete de Segurança 3M H-700 EPI com Suspensão de Catraca Ventilado Profissional com CA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc820hjthn1cb7",
@@ -168,35 +198,5 @@
     "desconto_percentual": 40.0,
     "link_afiliado": "https://s.shopee.com.br/9fJW1swpe0",
     "detectada_em": "23/07/2026 04:21 UTC"
-  },
-  {
-    "id": "22198345907",
-    "nome": "Nível Laser 4D de 16 Linhas IP54 auto nivelamento Medição Inclinada FEPRO-NL1622 EXBOM",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7fi29te50lo67",
-    "preco_antigo": 505.5,
-    "preco_novo": 454.95,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/4fub2w7ZHR",
-    "detectada_em": "14/07/2026 20:43 UTC"
-  },
-  {
-    "id": "23298568794",
-    "nome": "Nível a laser 12 linhas Régua profissional 40 metros com controle e recarregável FEPRO-NL1200 EXBOM",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnfuze50scua17",
-    "preco_antigo": 349.0,
-    "preco_novo": 314.1,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/4qE1FF6vwS",
-    "detectada_em": "14/07/2026 20:43 UTC"
-  },
-  {
-    "id": "22493540588",
-    "nome": "Nível Régua a Laser Profissional Recarregável 12 linhas Com Controle e Maleta FEPRO-NL1230 EXBOM",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2s91o03pteb36",
-    "preco_antigo": 399.0,
-    "preco_novo": 359.1,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/4LHkeK8pxL",
-    "detectada_em": "14/07/2026 20:43 UTC"
   }
 ]
