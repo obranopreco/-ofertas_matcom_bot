@@ -1,5 +1,25 @@
 [
   {
+    "id": "22198306543",
+    "nome": "MOLDE SILICONE EXERCITO SOLDADO MACHADO METRALHADORA SERROTE",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6o-m72pj6u3dq219f",
+    "preco_antigo": 23.9,
+    "preco_novo": 19.12,
+    "desconto_percentual": 20.0,
+    "link_afiliado": "https://s.shopee.com.br/9zwtA9YKGK",
+    "detectada_em": "12/08/2026 19:13 UTC"
+  },
+  {
+    "id": "22293804638",
+    "nome": "MOLDE SILICONE EXERCITO SOLDADO MACHADO METRALHADORA SERROTE",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6r-m72pje18vxtn15",
+    "preco_antigo": 23.9,
+    "preco_novo": 19.12,
+    "desconto_percentual": 20.0,
+    "link_afiliado": "https://s.shopee.com.br/9pdSxqYxbH",
+    "detectada_em": "12/08/2026 19:13 UTC"
+  },
+  {
     "id": "20797417922",
     "nome": "Cinto Duplo Solze Verde Militar para ferramentas. Bolsa Multiuso + Coldre para parafusadeira + cinto acolchoado e fivela",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztp-mkvc11fb4gle98",
@@ -178,25 +198,5 @@
     "desconto_percentual": 22,
     "link_afiliado": "https://meli.la/27FR69X",
     "detectada_em": "27/07/2026 19:50 UTC"
-  },
-  {
-    "id": "meli-2i2TDD2",
-    "nome": "Martelete Furadeira SDS GBH 2-24D 820W + Maleta Bosch Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978867-MLA95520684282_102025-O.webp",
-    "preco_antigo": 1189.0,
-    "preco_novo": 846.6,
-    "desconto_percentual": 28,
-    "link_afiliado": "https://meli.la/2i2TDD2",
-    "detectada_em": "27/07/2026 19:45 UTC"
-  },
-  {
-    "id": "meli-1MHb82j",
-    "nome": "Serra Esquadrilha DeWalt DWS715 12 Polegadas com 80 Dentes",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_610255-MLA99943517493_112025-O.webp",
-    "preco_antigo": 4399.48,
-    "preco_novo": 3739.0,
-    "desconto_percentual": 15,
-    "link_afiliado": "https://meli.la/1MHb82j",
-    "detectada_em": "27/07/2026 19:40 UTC"
   }
 ]
