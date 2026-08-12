@@ -1,5 +1,6 @@
 import os
 import json
+import time
 import requests
 from datetime import datetime
 
@@ -12,11 +13,10 @@ ARQUIVO_PALAVRAS_CHAVE = "palavras_chave.json"
 ARQUIVO_HISTORICO = "historico_precos.json"
 ARQUIVO_OFERTAS = "ofertas_recentes.json"
 
-TIPOS_LOJA_ACEITOS = {1, 4, 5}
 NOTA_MINIMA = 0  # sem filtro de nota, aceita todos os vendedores
-
 DESCONTO_MINIMO_PERCENTUAL = 5
 MAX_OFERTAS_RECENTES = 20  # quantas ofertas manter no arquivo do site
+PAUSA_ENTRE_BUSCAS = 2  # segundos de pausa entre cada chamada à API (proteção contra rate limit)
 
 
 def carregar_json(caminho):
@@ -46,13 +46,11 @@ def salvar_oferta_site(produto, preco_antigo, preco_novo):
     """Salva a oferta detectada no arquivo que o site WordPress vai ler."""
     desconto_percentual = ((preco_antigo - preco_novo) / preco_antigo) * 100
 
-    # Tenta carregar ofertas existentes; se o arquivo não existir, começa do zero
     try:
         ofertas = carregar_json(ARQUIVO_OFERTAS)
     except FileNotFoundError:
         ofertas = []
 
-    # Monta o objeto da nova oferta
     nova_oferta = {
         "id": str(produto["itemId"]),
         "nome": produto["productName"],
@@ -64,13 +62,8 @@ def salvar_oferta_site(produto, preco_antigo, preco_novo):
         "detectada_em": datetime.utcnow().strftime("%d/%m/%Y %H:%M UTC")
     }
 
-    # Remove essa oferta se já existia antes (pra evitar duplicata)
     ofertas = [o for o in ofertas if o["id"] != nova_oferta["id"]]
-
-    # Adiciona a nova oferta no topo da lista
     ofertas.insert(0, nova_oferta)
-
-    # Mantém só as últimas MAX_OFERTAS_RECENTES
     ofertas = ofertas[:MAX_OFERTAS_RECENTES]
 
     salvar_json(ARQUIVO_OFERTAS, ofertas)
@@ -100,10 +93,19 @@ def main():
     palavras_chave = carregar_json(ARQUIVO_PALAVRAS_CHAVE)["palavras_chave"]
     historico = carregar_json(ARQUIVO_HISTORICO)
 
-    for palavra in palavras_chave:
-        print(f"\nBuscando: '{palavra}'...")
-        produtos = buscar_produtos_shopee(palavra, limite=10)
-        print(f"  -> A API retornou {len(produtos)} produto(s) para essa busca.")
+    total_palavras = len(palavras_chave)
+    print(f"Iniciando rastreamento com {total_palavras} palavras-chave...")
+
+    for i, palavra in enumerate(palavras_chave, 1):
+        print(f"\n[{i}/{total_palavras}] Buscando: '{palavra}'...")
+
+        try:
+            produtos = buscar_produtos_shopee(palavra, limite=10)
+            print(f"  -> A API retornou {len(produtos)} produto(s).")
+        except Exception as e:
+            print(f"  -> Erro na busca: {e}. Pulando...")
+            time.sleep(PAUSA_ENTRE_BUSCAS)
+            continue
 
         for produto in produtos:
             id_produto = str(produto["itemId"])
@@ -116,20 +118,22 @@ def main():
             preco_antigo = historico.get(id_produto)
 
             if preco_antigo is None:
-                print(f"Primeira vez vendo '{nome_produto}'. Guardando preco R$ {preco_novo:.2f}.")
+                print(f"  Novo: '{nome_produto}' R$ {preco_novo:.2f}.")
             else:
                 queda_percentual = ((preco_antigo - preco_novo) / preco_antigo) * 100
                 if preco_novo < preco_antigo and queda_percentual >= DESCONTO_MINIMO_PERCENTUAL:
-                    print(f"Oferta real! '{nome_produto}': R$ {preco_antigo:.2f} -> R$ {preco_novo:.2f}")
+                    print(f"  OFERTA! '{nome_produto}': R$ {preco_antigo:.2f} -> R$ {preco_novo:.2f} (-{queda_percentual:.0f}%)")
                     mensagem = montar_mensagem(produto, preco_antigo, preco_novo)
                     enviar_mensagem(mensagem)
                     salvar_oferta_site(produto, preco_antigo, preco_novo)
-                else:
-                    print(f"Sem oferta relevante para '{nome_produto}' (R$ {preco_novo:.2f}).")
 
             historico[id_produto] = preco_novo
 
+        # Pausa entre buscas pra não sobrecarregar a API
+        time.sleep(PAUSA_ENTRE_BUSCAS)
+
     salvar_json(ARQUIVO_HISTORICO, historico)
+    print(f"\nRastreamento concluído. {total_palavras} categorias verificadas.")
 
 
 if __name__ == "__main__":
