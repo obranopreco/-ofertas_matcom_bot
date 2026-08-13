@@ -1,5 +1,35 @@
 [
   {
+    "id": "58206330080",
+    "nome": "Kit com 12 Torneiras de Jardim/Tanque Plástica Preta - VALEPLAST",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlgnxnq1730m95",
+    "preco_antigo": 39.9,
+    "preco_novo": 37.9,
+    "desconto_percentual": 5.0,
+    "link_afiliado": "https://s.shopee.com.br/9ANmyV6oIV",
+    "detectada_em": "13/08/2026 15:08 UTC"
+  },
+  {
+    "id": "58256725457",
+    "nome": "Sifão Universal Sanfonado Flexível Tubo Pia Cozinha Banheiro Lavatório Tanques Branco 71cm Valeplast",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mlp32ezd2vb990",
+    "preco_antigo": 14.99,
+    "preco_novo": 12.9,
+    "desconto_percentual": 14.0,
+    "link_afiliado": "https://s.shopee.com.br/904MmC7RdS",
+    "detectada_em": "13/08/2026 15:08 UTC"
+  },
+  {
+    "id": "23494702462",
+    "nome": "Plaina Elétrica 500W MT M1902B Makita (220V)",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82270-mhs0w0ai4lj80c",
+    "preco_antigo": 755.56,
+    "preco_novo": 711.11,
+    "desconto_percentual": 6.0,
+    "link_afiliado": "https://s.shopee.com.br/1125hmKPKn",
+    "detectada_em": "13/08/2026 15:05 UTC"
+  },
+  {
     "id": "54507790205",
     "nome": "Medidor De Distância A Laser De Uma Peça , Ferramenta De Medição Digital De 50-200M Com Cálculo De Volume De Área",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82589-mqzw1ldhn3t072",
@@ -168,35 +198,5 @@
     "desconto_percentual": 5.0,
     "link_afiliado": "https://s.shopee.com.br/7KvxW0YYbQ",
     "detectada_em": "08/08/2026 04:15 UTC"
-  },
-  {
-    "id": "19399589268",
-    "nome": "Tinta Acrilica Eucatex Premium Extra Piso Galão 3,6l - Cores",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mqhlgbifk6bm79",
-    "preco_antigo": 85.9,
-    "preco_novo": 67.85,
-    "desconto_percentual": 21.0,
-    "link_afiliado": "https://s.shopee.com.br/9zwkK2yx3Q",
-    "detectada_em": "08/08/2026 04:15 UTC"
-  },
-  {
-    "id": "23098943293",
-    "nome": "Kit Buchas Sem Anel com Parafuso 5 6  8 10 com 500 Peças Kit Parafusos e Bucha 5mm 6mm 7mm 8mm 10mm",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824il-mf86q2l9h824ac",
-    "preco_antigo": 58.32,
-    "preco_novo": 55.0,
-    "desconto_percentual": 6.0,
-    "link_afiliado": "https://s.shopee.com.br/1gHcWMXTHR",
-    "detectada_em": "07/08/2026 15:00 UTC"
-  },
-  {
-    "id": "22898555150",
-    "nome": "Trena a Laser Medidor de Distancia 150 Metros Bosch GLM 150-27C 0601072Z00",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7raua-maees8yfbnf4f2",
-    "preco_antigo": 3698.89,
-    "preco_novo": 3033.09,
-    "desconto_percentual": 18.0,
-    "link_afiliado": "https://s.shopee.com.br/40fPRkMf7s",
-    "detectada_em": "03/08/2026 12:32 UTC"
   }
 ]
