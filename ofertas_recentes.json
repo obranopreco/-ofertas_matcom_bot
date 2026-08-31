@@ -1,5 +1,25 @@
 [
   {
+    "id": "58210072440",
+    "nome": "Estilete Profissional De Metal 18mm + 5 Lâminas Extras",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnu99gmw0sg582",
+    "preco_antigo": 40.0,
+    "preco_novo": 22.0,
+    "desconto_percentual": 45.0,
+    "link_afiliado": "https://s.shopee.com.br/4qFGXKskEB",
+    "detectada_em": "31/08/2026 13:27 UTC"
+  },
+  {
+    "id": "58260062908",
+    "nome": "Kit Estilete Profissional Ergonômico 18mm Emborrachado Com Trava de Segurança + Lamina Segmentada",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820l9-mnu96nung0zpf9",
+    "preco_antigo": 30.0,
+    "preco_novo": 15.0,
+    "desconto_percentual": 50.0,
+    "link_afiliado": "https://s.shopee.com.br/4fvqL1tNZ8",
+    "detectada_em": "31/08/2026 13:27 UTC"
+  },
+  {
     "id": "11882689793",
     "nome": "Manta Asfáltica Auto Adesiva Aluminizada 90cm X 10m Dryko",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr3kh8ybq2v8bb",
@@ -178,25 +198,5 @@
     "desconto_percentual": 21.0,
     "link_afiliado": "https://s.shopee.com.br/60RAVBhXXG",
     "detectada_em": "29/08/2026 08:56 UTC"
-  },
-  {
-    "id": "58267025355",
-    "nome": "Kit SDS Plus 3 Peças Ponteira e Talhadeiras 20mm e 40mm para Martelete Concreto Alvenaria",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-msd390t3a96tbc",
-    "preco_antigo": 50.92,
-    "preco_novo": 41.93,
-    "desconto_percentual": 18.0,
-    "link_afiliado": "https://s.shopee.com.br/1qbbXV2TGm",
-    "detectada_em": "29/08/2026 08:55 UTC"
-  },
-  {
-    "id": "58266951574",
-    "nome": "Kit 6 Peças SDS Plus para Martelete com Talhadeiras, Ponteira e Brocas para Concreto",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-msbsun0l5fr8e9",
-    "preco_antigo": 63.92,
-    "preco_novo": 53.9,
-    "desconto_percentual": 16.0,
-    "link_afiliado": "https://s.shopee.com.br/1gIBLC36bl",
-    "detectada_em": "29/08/2026 08:55 UTC"
   }
 ]
