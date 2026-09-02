@@ -1,5 +1,75 @@
 [
   {
+    "id": "11882689793",
+    "nome": "Manta Asfáltica Auto Adesiva Aluminizada 90cm X 10m Dryko",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr3kh8ybq2v8bb",
+    "preco_antigo": 178.67,
+    "preco_novo": 165.86,
+    "desconto_percentual": 7.0,
+    "link_afiliado": "https://s.shopee.com.br/8V8XoMC0Ql",
+    "detectada_em": "02/09/2026 04:19 UTC"
+  },
+  {
+    "id": "8481796535",
+    "nome": "Manta Asfáltica Terracota Telhado Auto Adesiva 30cm X 10m",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwjs4vmjric32",
+    "preco_antigo": 74.8,
+    "preco_novo": 62.34,
+    "desconto_percentual": 17.0,
+    "link_afiliado": "https://s.shopee.com.br/AUtcC24ON5",
+    "detectada_em": "02/09/2026 04:19 UTC"
+  },
+  {
+    "id": "22911064273",
+    "nome": "Manta Asfáltica Aluminizada Telhado Auto Adesiva 60cm X 10m Vedatudo Dryko",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgicax9huwasc5",
+    "preco_antigo": 98.7,
+    "preco_novo": 93.67,
+    "desconto_percentual": 5.0,
+    "link_afiliado": "https://s.shopee.com.br/AKaBzj51i2",
+    "detectada_em": "02/09/2026 04:19 UTC"
+  },
+  {
+    "id": "22898907292",
+    "nome": "Cinto Porta Ferramentas Ajustável Multiuso Profissional Com 3 Compartimentos separados.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mer4mtw3bojl09",
+    "preco_antigo": 90.9,
+    "preco_novo": 77.26,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/8fS0Ki6wpP",
+    "detectada_em": "02/09/2026 04:18 UTC"
+  },
+  {
+    "id": "23698007872",
+    "nome": "Cinto Bolsa Multiuso 2 Em 1 para ferramentas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5dtr484w757f",
+    "preco_antigo": 107.69,
+    "preco_novo": 91.53,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/8plQX16JUQ",
+    "detectada_em": "02/09/2026 04:18 UTC"
+  },
+  {
+    "id": "23698716908",
+    "nome": "Solze Maleta Cinto Multiuso Porta Ferramentas Reforçada Preto e verde militar",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7utucdfie8ae",
+    "preco_antigo": 154.5,
+    "preco_novo": 131.32,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/8AVjjn8qqM",
+    "detectada_em": "02/09/2026 04:18 UTC"
+  },
+  {
+    "id": "58258228628",
+    "nome": "Kit Lixa Disco Circular Velcro para Madeira e Acabamento em Parede e Massa 125mm 5\"Lixadeira Orbital 10 20 e 30 Unidades",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mozi7hdpsb2df0",
+    "preco_antigo": 30.5,
+    "preco_novo": 18.3,
+    "desconto_percentual": 40.0,
+    "link_afiliado": "https://s.shopee.com.br/gPj8oDLEK",
+    "detectada_em": "02/09/2026 04:17 UTC"
+  },
+  {
     "id": "23598804714",
     "nome": "Torneira em Metal /abs Preta Cozinha parede Filtro Purificador 1/2\"ou 3/4'' CORPO PRETO TPM",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdvrh3wma6830a",
@@ -128,75 +198,5 @@
     "desconto_percentual": 20.0,
     "link_afiliado": "https://s.shopee.com.br/4VcSMvZ1us",
     "detectada_em": "01/09/2026 14:46 UTC"
-  },
-  {
-    "id": "22194644834",
-    "nome": "Fita Isolante Antichama 19 mm x 10m - Adelbras",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a9-mgaya266nkzte8",
-    "preco_antigo": 29.9,
-    "preco_novo": 23.92,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/40gBm0avvl",
-    "detectada_em": "01/09/2026 14:46 UTC"
-  },
-  {
-    "id": "23599123922",
-    "nome": "Fita  Isolante  Adelbras  20mts -",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259z-mgaya6n2jw9a04",
-    "preco_antigo": 19.9,
-    "preco_novo": 15.92,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/gPgU348XO",
-    "detectada_em": "01/09/2026 14:46 UTC"
-  },
-  {
-    "id": "52565367625",
-    "nome": "Lixa 1200 3000 5000 Kit 1 Folha de cada Farol Funilaria Pintura Plásticos Metal Fibras Vidro Marmore",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mrgc43prf7rb04",
-    "preco_antigo": 29.69,
-    "preco_novo": 27.7,
-    "desconto_percentual": 7.0,
-    "link_afiliado": "https://s.shopee.com.br/2gAoBVyos5",
-    "detectada_em": "01/09/2026 14:45 UTC"
-  },
-  {
-    "id": "22998742789",
-    "nome": "Bucha 8mm Para Tijolo Bloco Parede Oca Com Parafuso 100 Pçs",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxg-mcjdz6oo68nod1",
-    "preco_antigo": 47.52,
-    "preco_novo": 38.02,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/W6IwgVWzF",
-    "detectada_em": "01/09/2026 14:45 UTC"
-  },
-  {
-    "id": "23999024495",
-    "nome": "Kit Buchas 5 6 8 e 10mm com Anel Kit Bucha 5 6 8 10 com Aba para Fixação em Parede Concreto",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a0-mfzgdaebsgzxd2",
-    "preco_antigo": 55.9,
-    "preco_novo": 44.72,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/1Vyp7BhKLK",
-    "detectada_em": "01/09/2026 14:44 UTC"
-  },
-  {
-    "id": "22998742827",
-    "nome": "Kit Parafuso Phillips Com Bucha 6 6mm 50 100 200 Unidades",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mcjdzgn5k793b4",
-    "preco_antigo": 25.9,
-    "preco_novo": 20.72,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/Lmq5MGDyp",
-    "detectada_em": "01/09/2026 14:44 UTC"
-  },
-  {
-    "id": "23098943279",
-    "nome": "Kit Parafuso Para Madeira Philips Kit Marceneiro com 200 para MDF Parafuso Chipboard 14 25 30 40mm",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j4-mf86oemxa80976",
-    "preco_antigo": 35.9,
-    "preco_novo": 28.72,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/4qFFRcz5qi",
-    "detectada_em": "01/09/2026 14:44 UTC"
   }
 ]
