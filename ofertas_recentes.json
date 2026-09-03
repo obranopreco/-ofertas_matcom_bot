@@ -1,5 +1,35 @@
 [
   {
+    "id": "58206330080",
+    "nome": "Kit com 12 Torneiras de Jardim/Tanque Plástica Preta - VALEPLAST",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlgnxnq1730m95",
+    "preco_antigo": 39.9,
+    "preco_novo": 37.9,
+    "desconto_percentual": 5.0,
+    "link_afiliado": "https://s.shopee.com.br/2BEa5NZnAo",
+    "detectada_em": "03/09/2026 21:42 UTC"
+  },
+  {
+    "id": "58256725457",
+    "nome": "Sifão Universal Sanfonado Flexível Tubo Pia Cozinha Banheiro Lavatório Tanques Branco 71cm Valeplast",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mlp32ezd2vb990",
+    "preco_antigo": 14.99,
+    "preco_novo": 12.9,
+    "desconto_percentual": 14.0,
+    "link_afiliado": "https://s.shopee.com.br/2LY0HgZ9pp",
+    "detectada_em": "03/09/2026 21:42 UTC"
+  },
+  {
+    "id": "23698482801",
+    "nome": "Compressor De Ar Condicionado Ford Ka 1.5 3cc 2019",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgr-m9yk1fzipehb6f",
+    "preco_antigo": 600.0,
+    "preco_novo": 534.0,
+    "desconto_percentual": 11.0,
+    "link_afiliado": "https://s.shopee.com.br/30niEG9qJr",
+    "detectada_em": "03/09/2026 21:38 UTC"
+  },
+  {
     "id": "58212765241",
     "nome": "Mangueira Filtro Ar Corsa Meriva Montana Apos 2002 1.8 ",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ib-mpmabt7zclqaeb",
@@ -168,35 +198,5 @@
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/1VytxdT7O8",
     "detectada_em": "03/09/2026 14:23 UTC"
-  },
-  {
-    "id": "58264468002",
-    "nome": "Fechadura Porta Dianteira Esquerda Peugeot 208 2014, 15, 16 ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258w-mqrs8jlil4i600",
-    "preco_antigo": 192.99,
-    "preco_novo": 164.05,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/2VrR9TPJMI",
-    "detectada_em": "03/09/2026 14:23 UTC"
-  },
-  {
-    "id": "58256332623",
-    "nome": "Reservatorio Oleo Direcao Hidraulica Grand Siena 2012 a 2016",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261a-mlgq11xycvf375",
-    "preco_antigo": 113.99,
-    "preco_novo": 101.46,
-    "desconto_percentual": 11.0,
-    "link_afiliado": "https://s.shopee.com.br/8KpE6BCJA9",
-    "detectada_em": "03/09/2026 14:23 UTC"
-  },
-  {
-    "id": "58213572675",
-    "nome": "Jogo De Formão Para Madeira Profissional 4 Peças",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259k-mq6h1hh9qxal0e",
-    "preco_antigo": 59.9,
-    "preco_novo": 42.9,
-    "desconto_percentual": 28.0,
-    "link_afiliado": "https://s.shopee.com.br/70Jpq5mN6e",
-    "detectada_em": "03/09/2026 14:22 UTC"
   }
 ]
