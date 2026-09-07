@@ -1,5 +1,35 @@
 [
   {
+    "id": "58266520279",
+    "nome": "Mangueira Caixa Câmbio Cruze 1.4 Turbo 2020 - 2023",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257t-ms303ye2tedj1b",
+    "preco_antigo": 254.99,
+    "preco_novo": 226.94,
+    "desconto_percentual": 11.0,
+    "link_afiliado": "https://s.shopee.com.br/W6T0lKnPp",
+    "detectada_em": "07/09/2026 12:18 UTC"
+  },
+  {
+    "id": "16987442973",
+    "nome": "Sapato Social Masculino Verniz Preto Moda Evangélica",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-wh6ikpjfxjiv18",
+    "preco_antigo": 99.99,
+    "preco_novo": 50.99,
+    "desconto_percentual": 49.0,
+    "link_afiliado": "https://s.shopee.com.br/2VrXOJcPaw",
+    "detectada_em": "07/09/2026 12:16 UTC"
+  },
+  {
+    "id": "58215280256",
+    "nome": "KIT MINI CHAVES FENDA E PHILIPS 6 PÇS BOMVINK BOM3125",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr9ejoho84cn1d",
+    "preco_antigo": 170.45,
+    "preco_novo": 8.52,
+    "desconto_percentual": 95.0,
+    "link_afiliado": "https://s.shopee.com.br/9fKhvQH90a",
+    "detectada_em": "07/09/2026 12:15 UTC"
+  },
+  {
     "id": "6895429082",
     "nome": "Manta Asfáltica Terracota Telhado Auto Adesiva- 20cm X 10m",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwjs4vrusqo65",
@@ -168,35 +198,5 @@
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/6fh3BiIpUA",
     "detectada_em": "05/09/2026 12:38 UTC"
-  },
-  {
-    "id": "58264284297",
-    "nome": "Mangueira De Caixa De Filtro Ar Fox 2015 a 2022 1.6 8v ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825am-mqouzysi6vpd35",
-    "preco_antigo": 66.99,
-    "preco_novo": 56.95,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/6AkmanKjV1",
-    "detectada_em": "05/09/2026 12:38 UTC"
-  },
-  {
-    "id": "23094682226",
-    "nome": "Cabo Alternador Polo 1.6 16v Msi 2018 19 Cod. 2q0971537ah",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821e8-mgz4wb84eznxb1",
-    "preco_antigo": 33.99,
-    "preco_novo": 28.9,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/7VGABF2ayZ",
-    "detectada_em": "05/09/2026 12:38 UTC"
-  },
-  {
-    "id": "22294977194",
-    "nome": "50 Pc Disco Corte Abrasivo Fino Para Rebarbadora 4.1/2",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nm-mnum2a28q2o292",
-    "preco_antigo": 120.0,
-    "preco_novo": 78.99,
-    "desconto_percentual": 34.0,
-    "link_afiliado": "https://s.shopee.com.br/2gAqgFQZlq",
-    "detectada_em": "05/09/2026 12:37 UTC"
   }
 ]
