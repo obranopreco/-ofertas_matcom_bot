@@ -1,5 +1,35 @@
 [
   {
+    "id": "58210984592",
+    "nome": "Mangueira Direção Hidráulica Onix 2013 a 2019 1.0 1.4  ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82300-mofurvo6v6dod3",
+    "preco_antigo": 79.99,
+    "preco_novo": 68.0,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/5VVFTmP4t8",
+    "detectada_em": "11/09/2026 14:18 UTC"
+  },
+  {
+    "id": "58212199940",
+    "nome": "Cano Mangueira Hidráulica Palio Sapão Fire 2009-2016 1.0 ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823oq-mp9vcu449wcu9e",
+    "preco_antigo": 168.99,
+    "preco_novo": 143.65,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/5fofg5ORY9",
+    "detectada_em": "11/09/2026 14:18 UTC"
+  },
+  {
+    "id": "58208449955",
+    "nome": "Fechadura Porta Diant. Direita New Fiesta 2014-17 Nac. ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztw-mmt7f670lma020",
+    "preco_antigo": 337.99,
+    "preco_novo": 304.2,
+    "desconto_percentual": 10.0,
+    "link_afiliado": "https://s.shopee.com.br/70K3GShBDd",
+    "detectada_em": "11/09/2026 14:17 UTC"
+  },
+  {
     "id": "58217534954",
     "nome": "Kit de Cuidados para Unhas com Pinça de Precisão, Lixa para Unhas e Estojo Portátil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msv3q81kf56td6",
@@ -168,35 +198,5 @@
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/70K10Zie9Z",
     "detectada_em": "10/09/2026 04:20 UTC"
-  },
-  {
-    "id": "58266951574",
-    "nome": "Kit 6 Peças SDS Plus para Martelete com Talhadeiras, Ponteira e Brocas para Concreto",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-msbsun0l5fr8e9",
-    "preco_antigo": 71.9,
-    "preco_novo": 55.93,
-    "desconto_percentual": 22.0,
-    "link_afiliado": "https://s.shopee.com.br/9AOVaSGtOB",
-    "detectada_em": "10/09/2026 04:19 UTC"
-  },
-  {
-    "id": "22699055667",
-    "nome": "Cabo Positivo Da Bateria Chery Celer 1.5 2013 - 15 ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259a-mg40q0c03zt82c",
-    "preco_antigo": 57.99,
-    "preco_novo": 52.2,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/5LBmWr8wes",
-    "detectada_em": "09/09/2026 20:54 UTC"
-  },
-  {
-    "id": "40128160321",
-    "nome": "Kit 2 Ripas Painel Ripado Autocolante de Eva | Aceita Pintura Linha POP",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrstf0txkz5xa6",
-    "preco_antigo": 68.31,
-    "preco_novo": 64.29,
-    "desconto_percentual": 6.0,
-    "link_afiliado": "https://s.shopee.com.br/1Lfcra817Z",
-    "detectada_em": "09/09/2026 20:52 UTC"
   }
 ]
