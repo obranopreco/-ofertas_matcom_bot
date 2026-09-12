@@ -1,5 +1,85 @@
 [
   {
+    "id": "22398656953",
+    "nome": "Mangueira Ar Condicionado Saveiro G8 1.6 8v 2017 a 22 Cod. 6",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rav4-mb2vshnhrgpvaf",
+    "preco_antigo": 100.0,
+    "preco_novo": 89.0,
+    "desconto_percentual": 11.0,
+    "link_afiliado": "https://s.shopee.com.br/AUtwmemctb",
+    "detectada_em": "12/09/2026 10:37 UTC"
+  },
+  {
+    "id": "22898840961",
+    "nome": "Cabo Aterramento Corolla Gli 2009 a 2014 82125-02270-c00",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7req7-mdup1eo33odf85",
+    "preco_antigo": 22.99,
+    "preco_novo": 20.47,
+    "desconto_percentual": 11.0,
+    "link_afiliado": "https://s.shopee.com.br/4AztF0xKbx",
+    "detectada_em": "12/09/2026 10:37 UTC"
+  },
+  {
+    "id": "58208975371",
+    "nome": "Fechadura Porta Tras. Esquerda Kwid 2018, 19, 20 ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zte-mn4chyvewao89c",
+    "preco_antigo": 169.99,
+    "preco_novo": 144.5,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/AKaWaHFgAV",
+    "detectada_em": "12/09/2026 10:36 UTC"
+  },
+  {
+    "id": "22295053174",
+    "nome": "Braço Dobradiça Esq. Tampa Traseira New Fiesta 2014-17 Nac. ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823qx-mpba2vz1u9e3d0",
+    "preco_antigo": 33.99,
+    "preco_novo": 28.9,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/1gIYGLV4bm",
+    "detectada_em": "12/09/2026 10:36 UTC"
+  },
+  {
+    "id": "22498813441",
+    "nome": "Braço Dobradiça Lado Direito Ford Ka 2008 a 2013 7s55-16800-",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw4-mdbx3nib65eub6",
+    "preco_antigo": 90.99,
+    "preco_novo": 80.08,
+    "desconto_percentual": 12.0,
+    "link_afiliado": "https://s.shopee.com.br/1Vz842Vhwj",
+    "detectada_em": "12/09/2026 10:36 UTC"
+  },
+  {
+    "id": "23098561055",
+    "nome": "Suporte Do Compressor Ar Stilo 1.8 2007 08",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rask-maixa27zkwzncd",
+    "preco_antigo": 120.0,
+    "preco_novo": 102.0,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/AUtwmPJQ55",
+    "detectada_em": "12/09/2026 10:33 UTC"
+  },
+  {
+    "id": "22499426204",
+    "nome": "Compressor Ar Condicionado Discovery 3 2005-09 2.7",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261m-mm26o96n1l3jc5",
+    "preco_antigo": 1017.99,
+    "preco_novo": 865.3,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/8V8sOjR28d",
+    "detectada_em": "12/09/2026 10:33 UTC"
+  },
+  {
+    "id": "23094310933",
+    "nome": "Kit Multicortadora Oscilante GOP 185-LI + Serra Tico-Tico GST 185-LI + 2 Bateria 4Ah + Carregador Rápido Bosch",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvn-mdepbbr30licd3",
+    "preco_antigo": 3600.0,
+    "preco_novo": 2844.0,
+    "desconto_percentual": 21.0,
+    "link_afiliado": "https://s.shopee.com.br/7VGLCsVFCc",
+    "detectada_em": "12/09/2026 10:33 UTC"
+  },
+  {
     "id": "23998171803",
     "nome": "Bota Masculino Coturno Bullgat Cano Médio Motoqueiro Da Moda",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5vsasj6m8j6f9",
@@ -118,85 +198,5 @@
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/70K3XCFaw6",
     "detectada_em": "11/09/2026 18:21 UTC"
-  },
-  {
-    "id": "23998558573",
-    "nome": "Corte Rápido e Preciso em Madeira Disco de Serra Circular Apex Force 110mm 24 Dentes",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mpsfeiczyolfe6",
-    "preco_antigo": 106.26,
-    "preco_novo": 99.9,
-    "desconto_percentual": 6.0,
-    "link_afiliado": "https://s.shopee.com.br/3qMzEdFbLX",
-    "detectada_em": "11/09/2026 18:20 UTC"
-  },
-  {
-    "id": "58210984592",
-    "nome": "Mangueira Direção Hidráulica Onix 2013 a 2019 1.0 1.4  ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82300-mofurvo6v6dod3",
-    "preco_antigo": 79.99,
-    "preco_novo": 68.0,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/5VVFTmP4t8",
-    "detectada_em": "11/09/2026 14:18 UTC"
-  },
-  {
-    "id": "58212199940",
-    "nome": "Cano Mangueira Hidráulica Palio Sapão Fire 2009-2016 1.0 ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823oq-mp9vcu449wcu9e",
-    "preco_antigo": 168.99,
-    "preco_novo": 143.65,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/5fofg5ORY9",
-    "detectada_em": "11/09/2026 14:18 UTC"
-  },
-  {
-    "id": "58208449955",
-    "nome": "Fechadura Porta Diant. Direita New Fiesta 2014-17 Nac. ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztw-mmt7f670lma020",
-    "preco_antigo": 337.99,
-    "preco_novo": 304.2,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/70K3GShBDd",
-    "detectada_em": "11/09/2026 14:17 UTC"
-  },
-  {
-    "id": "58217534954",
-    "nome": "Kit de Cuidados para Unhas com Pinça de Precisão, Lixa para Unhas e Estojo Portátil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msv3q81kf56td6",
-    "preco_antigo": 24.99,
-    "preco_novo": 12.99,
-    "desconto_percentual": 48.0,
-    "link_afiliado": "https://s.shopee.com.br/4fw6ENtR8j",
-    "detectada_em": "11/09/2026 09:32 UTC"
-  },
-  {
-    "id": "58267546439",
-    "nome": "Lixa para Pés com Cabo de Madeira, Lixa para Pele Áspera e Cuidados dos Pés, 1 Unidade",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mstiqvyjp1qd27",
-    "preco_antigo": 22.99,
-    "preco_novo": 12.99,
-    "desconto_percentual": 43.0,
-    "link_afiliado": "https://s.shopee.com.br/5AsMpIrX7q",
-    "detectada_em": "11/09/2026 09:32 UTC"
-  },
-  {
-    "id": "22694247866",
-    "nome": "ARGAMASSA IMPERMEABILIZANTE BAUTECH 7000 / 18KG | FLEXÍVEL COM FIBRAS",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md4ppm4nekn5e1",
-    "preco_antigo": 232.08,
-    "preco_novo": 210.97,
-    "desconto_percentual": 9.0,
-    "link_afiliado": "https://s.shopee.com.br/1LfeGClPOC",
-    "detectada_em": "11/09/2026 04:27 UTC"
-  },
-  {
-    "id": "22898907292",
-    "nome": "Cinto Porta Ferramentas Ajustável Multiuso Profissional Com 3 Compartimentos separados.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mer4mtw3bojl09",
-    "preco_antigo": 90.9,
-    "preco_novo": 77.26,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/AKaUa3c4gG",
-    "detectada_em": "11/09/2026 04:27 UTC"
   }
 ]
