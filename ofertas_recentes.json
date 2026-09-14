@@ -1,5 +1,15 @@
 [
   {
+    "id": "58207781501",
+    "nome": "Cimento queimado BRANCO ESPEÇIAL  piso KIT 20KG MAIS RESINA",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zq-mmc2kt8ldvyd12",
+    "preco_antigo": 464.55,
+    "preco_novo": 440.1,
+    "desconto_percentual": 5.0,
+    "link_afiliado": "https://s.shopee.com.br/7AdXMQI1IK",
+    "detectada_em": "14/09/2026 00:56 UTC"
+  },
+  {
     "id": "49017388031",
     "nome": "Triturador elétrico, descascador, plaina dedicada elétrica de alta eficiência, triturador de coco",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258h-mspwicdzg0zsd0",
@@ -187,16 +197,6 @@
     "preco_novo": 865.3,
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/8V8sOjR28d",
-    "detectada_em": "12/09/2026 10:33 UTC"
-  },
-  {
-    "id": "23094310933",
-    "nome": "Kit Multicortadora Oscilante GOP 185-LI + Serra Tico-Tico GST 185-LI + 2 Bateria 4Ah + Carregador Rápido Bosch",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvn-mdepbbr30licd3",
-    "preco_antigo": 3600.0,
-    "preco_novo": 2844.0,
-    "desconto_percentual": 21.0,
-    "link_afiliado": "https://s.shopee.com.br/7VGLCsVFCc",
     "detectada_em": "12/09/2026 10:33 UTC"
   }
 ]
