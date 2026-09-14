@@ -1,5 +1,45 @@
 [
   {
+    "id": "23698482953",
+    "nome": "Mangueira 1 Pequena Do Ar Condicionado S10 2.4 2013 14 15",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhh-m9yk397pdc3z01",
+    "preco_antigo": 250.0,
+    "preco_novo": 222.5,
+    "desconto_percentual": 11.0,
+    "link_afiliado": "https://s.shopee.com.br/7ptFNFreiV",
+    "detectada_em": "14/09/2026 19:17 UTC"
+  },
+  {
+    "id": "23698746559",
+    "nome": "Tubo Cano Água Motor Duster 1.6 16v Dakar 2016 8200972216",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwp-mcm71t17nquvbe",
+    "preco_antigo": 56.99,
+    "preco_novo": 50.73,
+    "desconto_percentual": 11.0,
+    "link_afiliado": "https://s.shopee.com.br/70K8NiupPG",
+    "detectada_em": "14/09/2026 19:17 UTC"
+  },
+  {
+    "id": "21067593851",
+    "nome": "Bloco De Espuma Esponja Rejunte Pedreiro Acabamento Multiuso Bucha Obra Limpeza Casa",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-pb4an9mp9tkv53",
+    "preco_antigo": 34.9,
+    "preco_novo": 29.67,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/3LQnX7PtNE",
+    "detectada_em": "14/09/2026 19:15 UTC"
+  },
+  {
+    "id": "12257540743",
+    "nome": "Fita Crepe 3m Automotiva Mascaramento 18mm X 40m 3m - 1 Rolo",
+    "imagem": "https://cf.shopee.com.br/file/5c7e102b6601af519d3b806b227c7503",
+    "preco_antigo": 16.62,
+    "preco_novo": 13.99,
+    "desconto_percentual": 16.0,
+    "link_afiliado": "https://s.shopee.com.br/9AOcbSgOI4",
+    "detectada_em": "14/09/2026 19:15 UTC"
+  },
+  {
     "id": "23694225383",
     "nome": "Capacete de Segurança 3M H-700 EPI com Suspensão de Catraca Ventilado Profissional com CA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc820hjthn1cb7",
@@ -158,45 +198,5 @@
     "desconto_percentual": 20.0,
     "link_afiliado": "https://s.shopee.com.br/8AW3HyU5nn",
     "detectada_em": "13/09/2026 16:06 UTC"
-  },
-  {
-    "id": "58255237046",
-    "nome": "Paquímetro digital com letras maiúsculas em fibra de carbono",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262q-mkosqdauu4g5c9",
-    "preco_antigo": 294.8,
-    "preco_novo": 277.7,
-    "desconto_percentual": 6.0,
-    "link_afiliado": "https://s.shopee.com.br/9fKr4e94tE",
-    "detectada_em": "13/09/2026 16:05 UTC"
-  },
-  {
-    "id": "23899167225",
-    "nome": "Filtro De Linha Extensao Upsai FL5 5 Tomadas 1,2m Protecao Surtos Sobrecarga Bivolt Audio E Tv",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mr1t07o6hgjo9f",
-    "preco_antigo": 55.16,
-    "preco_novo": 40.0,
-    "desconto_percentual": 27.0,
-    "link_afiliado": "https://s.shopee.com.br/AAH7flJrC3",
-    "detectada_em": "13/09/2026 05:58 UTC"
-  },
-  {
-    "id": "22494519527",
-    "nome": "Filtro De Linha Extensao Metalica Upsai FM10 10 Tomadas 1,2m Bivolt Protecao DPS Disjuntor Rearmavel",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflgsy45a39g61",
-    "preco_antigo": 91.04,
-    "preco_novo": 65.0,
-    "desconto_percentual": 29.0,
-    "link_afiliado": "https://s.shopee.com.br/9V1QsXMOXr",
-    "detectada_em": "13/09/2026 05:58 UTC"
-  },
-  {
-    "id": "23499666013",
-    "nome": "Kit 10 Discos de Corte Inox 115x1x22,2mm VILA Esmerilhadeira Alta Performance Corte Rápido",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-msul0uqhw0lg81",
-    "preco_antigo": 23.9,
-    "preco_novo": 21.51,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/3qN4850qZP",
-    "detectada_em": "13/09/2026 05:57 UTC"
   }
 ]
