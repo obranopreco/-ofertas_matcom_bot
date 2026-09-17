@@ -1,5 +1,55 @@
 [
   {
+    "id": "43380537543",
+    "nome": "Kit 4 lixas 2000 d'agua Grão Folha Polimento Lixamento Acabamento Superfície Plástico Metal Jogo Gr",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mnriwrqy4mbk44",
+    "preco_antigo": 27.51,
+    "preco_novo": 24.27,
+    "desconto_percentual": 12.0,
+    "link_afiliado": "https://s.shopee.com.br/3VkKbcS9rf",
+    "detectada_em": "17/09/2026 13:22 UTC"
+  },
+  {
+    "id": "58262753680",
+    "nome": "Broca Martelete para Concreto SDS PLUS-5X 16mm x 250310mm Bosch",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h3-mpm8anj9wob3db",
+    "preco_antigo": 217.14,
+    "preco_novo": 178.82,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/8KpaMTx21n",
+    "detectada_em": "17/09/2026 13:22 UTC"
+  },
+  {
+    "id": "23293657204",
+    "nome": "Capa de Volante Revestimento Automotivo Em Couro Ecológico Costurado Textura Perfurado Promoção",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1b-m591iml9cpcoca",
+    "preco_antigo": 19.9,
+    "preco_novo": 16.32,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/112zEzjayu",
+    "detectada_em": "17/09/2026 13:21 UTC"
+  },
+  {
+    "id": "23394335994",
+    "nome": "Tupia De Coluna Makita 900W RP0900  Jogo de Fresas para Madeira 6mm com 12 Pecas - 220v",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvh-mdqa9ic9y3tgad",
+    "preco_antigo": 2307.14,
+    "preco_novo": 1900.0,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/112zcpgWXn",
+    "detectada_em": "17/09/2026 13:20 UTC"
+  },
+  {
+    "id": "58255466583",
+    "nome": "Serra Tico-Tico a Bateria 18V LXT Makita DJV184Z + Kit de Energia 2 Baterias 6Ah + Carregador + Maleta KITMAK1860B",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825aa-mt6q02jfppfo1a",
+    "preco_antigo": 4864.29,
+    "preco_novo": 4005.88,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/7ptJlMLeFR",
+    "detectada_em": "17/09/2026 13:19 UTC"
+  },
+  {
     "id": "6895429082",
     "nome": "Manta Asfáltica Terracota Telhado Auto Adesiva- 20cm X 10m",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwjs4vrusqo65",
@@ -148,55 +198,5 @@
     "desconto_percentual": 29.0,
     "link_afiliado": "https://s.shopee.com.br/W6h3J9w87",
     "detectada_em": "16/09/2026 18:06 UTC"
-  },
-  {
-    "id": "50767812565",
-    "nome": "Pequeno Motor De Aspirador De Pó De Nível Industrial , Cortador De Fio , Sucção , Lâmina De Ventilador Duplo PA22D , Ace",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82580-mt3f8bhe0wskd6",
-    "preco_antigo": 401.28,
-    "preco_novo": 305.31,
-    "desconto_percentual": 24.0,
-    "link_afiliado": "https://s.shopee.com.br/LnGr0AZT4",
-    "detectada_em": "16/09/2026 18:06 UTC"
-  },
-  {
-    "id": "22693653154",
-    "nome": "Martelo Demolidor Dewalt D25899K-B2 1500W 17.5J SDS MAX 220V",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra3r-m536vsf3pawb53",
-    "preco_antigo": 9957.14,
-    "preco_novo": 8200.0,
-    "desconto_percentual": 18.0,
-    "link_afiliado": "https://s.shopee.com.br/112yLbUcGc",
-    "detectada_em": "16/09/2026 18:06 UTC"
-  },
-  {
-    "id": "22194190886",
-    "nome": "Arco De Serra Industrial 12\" Gedore 403-B - 039.001",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r3-mp19uzmrzhtt54",
-    "preco_antigo": 290.0,
-    "preco_novo": 238.82,
-    "desconto_percentual": 18.0,
-    "link_afiliado": "https://s.shopee.com.br/8plpMgVPqJ",
-    "detectada_em": "16/09/2026 13:25 UTC"
-  },
-  {
-    "id": "23397726682",
-    "nome": "Martelo de Borracha Branco - 30 79 000 600 - VONDER",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-lz6h7j15eg4ob5",
-    "preco_antigo": 61.71,
-    "preco_novo": 50.82,
-    "desconto_percentual": 18.0,
-    "link_afiliado": "https://s.shopee.com.br/905FYyrBTU",
-    "detectada_em": "16/09/2026 13:24 UTC"
-  },
-  {
-    "id": "58207510488",
-    "nome": "Kit Tupia a Bateria 18V LXT Makita DRT50Z + Kit Energia 2 Baterias 6Ah + Carregador + Maleta KITMAK1860B",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bd-mt6pyqfjbojke7",
-    "preco_antigo": 3964.29,
-    "preco_novo": 3264.71,
-    "desconto_percentual": 18.0,
-    "link_afiliado": "https://s.shopee.com.br/8AW8ZNilzj",
-    "detectada_em": "16/09/2026 13:23 UTC"
   }
 ]
