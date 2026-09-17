@@ -1,5 +1,25 @@
 [
   {
+    "id": "23994037340",
+    "nome": "Serra Tico-Tico A Bateria 12v Cxt Makita Jv101dz",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reog-mduzv1zhs7sbff",
+    "preco_antigo": 1000.0,
+    "preco_novo": 823.53,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/5q8Ea0lLHF",
+    "detectada_em": "17/09/2026 01:16 UTC"
+  },
+  {
+    "id": "23994037404",
+    "nome": "Serra Tico-Tico a Bateria 18v Bosch GST185-LI SB 06015B30E1",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7raux-ma8wdze7le2y7b",
+    "preco_antigo": 2360.0,
+    "preco_novo": 1943.53,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/5fooNhlycC",
+    "detectada_em": "17/09/2026 01:16 UTC"
+  },
+  {
     "id": "23398567903",
     "nome": "Chicote Cabo Negativo Bateria Cruze 1.4 2017 A 2020",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratl-man3qjhijtoj96",
@@ -177,26 +197,6 @@
     "preco_novo": 28.29,
     "desconto_percentual": 33.0,
     "link_afiliado": "https://s.shopee.com.br/5q8DPL62s6",
-    "detectada_em": "16/09/2026 07:38 UTC"
-  },
-  {
-    "id": "58262071405",
-    "nome": "Olhal Simples 1/2 para Mangueira 8x6 Conexão Pneumática Hidráulica",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mp51c6cnrdhfcd",
-    "preco_antigo": 15.15,
-    "preco_novo": 10.15,
-    "desconto_percentual": 33.0,
-    "link_afiliado": "https://s.shopee.com.br/5VVN0j7JY0",
-    "detectada_em": "16/09/2026 07:38 UTC"
-  },
-  {
-    "id": "58212477929",
-    "nome": "Olhal Simples 16mm para Mangueira 10x7 Conexão Pneumática Hidráulica",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mp74o6fvvnk66e",
-    "preco_antigo": 26.17,
-    "preco_novo": 17.53,
-    "desconto_percentual": 33.0,
-    "link_afiliado": "https://s.shopee.com.br/5AsWc78aDu",
     "detectada_em": "16/09/2026 07:38 UTC"
   }
 ]
