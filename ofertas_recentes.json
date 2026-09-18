@@ -1,5 +1,25 @@
 [
   {
+    "id": "23393177081",
+    "nome": "Martelo Unha Cabo Ferro 27mm Tramontina - 40800/027",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw6-lyc69exc5wa28a",
+    "preco_antigo": 227.29,
+    "preco_novo": 193.2,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/5VVQpJpBZZ",
+    "detectada_em": "18/09/2026 17:03 UTC"
+  },
+  {
+    "id": "58258058744",
+    "nome": "Lixadeira Combinada Bancada e Cinta Manrod MR-41417 Mono (220v)",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zty-mmj81dj5c3yd42",
+    "preco_antigo": 2701.18,
+    "preco_novo": 2296.0,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/5q8EzkQAIk",
+    "detectada_em": "18/09/2026 17:01 UTC"
+  },
+  {
     "id": "58260371049",
     "nome": "Mangueira Filtro De Ar Corolla Xei 2.0 2009 -2014 ",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lm-mo06x9fid05dfc",
@@ -177,26 +197,6 @@
     "preco_novo": 30.26,
     "desconto_percentual": 11.0,
     "link_afiliado": "https://s.shopee.com.br/7ptLKhGrvP",
-    "detectada_em": "18/09/2026 12:57 UTC"
-  },
-  {
-    "id": "58200703632",
-    "nome": "Dobradiça Lado Esquerdo Tampa Traseira Peugeot 408 2012 a 20",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fe-mh72cdbefx8p3e",
-    "preco_antigo": 90.99,
-    "preco_novo": 80.99,
-    "desconto_percentual": 11.0,
-    "link_afiliado": "https://s.shopee.com.br/7fZv8OHVGM",
-    "detectada_em": "18/09/2026 12:57 UTC"
-  },
-  {
-    "id": "58257316833",
-    "nome": "Dobradiça Porta Sup Tras. Direita Discovery 3 2004-09",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262k-mm26rrw1hgqsff",
-    "preco_antigo": 113.99,
-    "preco_novo": 101.46,
-    "desconto_percentual": 11.0,
-    "link_afiliado": "https://s.shopee.com.br/7VGUw5I8bJ",
     "detectada_em": "18/09/2026 12:57 UTC"
   }
 ]
