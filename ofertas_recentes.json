@@ -1,5 +1,35 @@
 [
   {
+    "id": "22298687536",
+    "nome": "Arco de Serra Fixo 12 Pol - 140 - STARRET",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra3i-mbfk6mqwy8wd6e",
+    "preco_antigo": 70.47,
+    "preco_novo": 59.9,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/9zxoLRt2iT",
+    "detectada_em": "18/09/2026 01:14 UTC"
+  },
+  {
+    "id": "23598832524",
+    "nome": "Tupia Makita 710w RT0700C  Jogo de Fresas para Madeira 6mm com 12 Pecas - 220v",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mdq69bunn0id4c",
+    "preco_antigo": 1558.82,
+    "preco_novo": 1325.0,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/70KDYpTY66",
+    "detectada_em": "18/09/2026 01:13 UTC"
+  },
+  {
+    "id": "22693653154",
+    "nome": "Martelo Demolidor Dewalt D25899K-B2 1500W 17.5J SDS MAX 220V",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra3r-m536vsf3pawb53",
+    "preco_antigo": 8200.0,
+    "preco_novo": 6970.0,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/1gIg26Nt2e",
+    "detectada_em": "18/09/2026 01:12 UTC"
+  },
+  {
     "id": "58262753680",
     "nome": "Broca Martelete para Concreto SDS PLUS-5X 16mm x 250310mm Bosch",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h3-mpm8anj9wob3db",
@@ -167,36 +197,6 @@
     "preco_novo": 369.0,
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/2LYMpKuXvO",
-    "detectada_em": "17/09/2026 22:03 UTC"
-  },
-  {
-    "id": "23797716629",
-    "nome": "Jogo De Fresas Madeira 12 Peças Metal 6mm Vonder Kit Maleta",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxv-lz6hwrfo29wq58",
-    "preco_antigo": 136.47,
-    "preco_novo": 116.0,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/20vWQivobI",
-    "detectada_em": "17/09/2026 22:03 UTC"
-  },
-  {
-    "id": "23994326667",
-    "nome": "Base Reclinavel para Tupia RT0700C e DRT50 Makita 198987-9",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy1-mdq6redhmzpm35",
-    "preco_antigo": 388.24,
-    "preco_novo": 330.0,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/W6idy1Wdz",
-    "detectada_em": "17/09/2026 22:03 UTC"
-  },
-  {
-    "id": "23994327117",
-    "nome": "Tupia de Coluna 12mm 12\" 1.650W Makita M3600B - 220v",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-mdq6re2e4ohoec",
-    "preco_antigo": 2176.47,
-    "preco_novo": 1850.0,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/LnIRf29yw",
     "detectada_em": "17/09/2026 22:03 UTC"
   }
 ]
