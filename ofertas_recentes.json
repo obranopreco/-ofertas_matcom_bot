@@ -1,5 +1,35 @@
 [
   {
+    "id": "23194174697",
+    "nome": "Martelo Unha 23mm Cabo De Ferro Sparta",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra28-mbe4fqcvhhqbe8",
+    "preco_antigo": 47.57,
+    "preco_novo": 33.3,
+    "desconto_percentual": 30.0,
+    "link_afiliado": "https://s.shopee.com.br/70KFzpnM4e",
+    "detectada_em": "19/09/2026 13:51 UTC"
+  },
+  {
+    "id": "23293230106",
+    "nome": "Martelo Unha 25mm Cabo Fibra Emborrachado MTX - 1040755",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyn-lz6h2dc76h0q65",
+    "preco_antigo": 58.29,
+    "preco_novo": 40.8,
+    "desconto_percentual": 30.0,
+    "link_afiliado": "https://s.shopee.com.br/3LQxd61JVv",
+    "detectada_em": "19/09/2026 13:51 UTC"
+  },
+  {
+    "id": "58257760089",
+    "nome": "Lixadeira Combinada Cinta e Disco 750w com Bancada Manrod MR-43 Monofasica 220V",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260j-mmbs73q1je9w45",
+    "preco_antigo": 8179.86,
+    "preco_novo": 5725.9,
+    "desconto_percentual": 30.0,
+    "link_afiliado": "https://s.shopee.com.br/6fhNwLr65z",
+    "detectada_em": "19/09/2026 13:50 UTC"
+  },
+  {
     "id": "11882689793",
     "nome": "Manta Asfáltica Auto Adesiva Aluminizada 90cm X 10m Dryko",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr3kh8ybq2v8bb",
@@ -167,36 +197,6 @@
     "preco_novo": 202.03,
     "desconto_percentual": 11.0,
     "link_afiliado": "https://s.shopee.com.br/3B7VmDJDak",
-    "detectada_em": "18/09/2026 12:58 UTC"
-  },
-  {
-    "id": "58264243565",
-    "nome": "Mangueira Radiador Volkswagen Fox 2015 a 2022 1.6 8v ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82597-mqnqb6na40777d",
-    "preco_antigo": 50.99,
-    "preco_novo": 45.39,
-    "desconto_percentual": 11.0,
-    "link_afiliado": "https://s.shopee.com.br/2gBFBIL7bd",
-    "detectada_em": "18/09/2026 12:58 UTC"
-  },
-  {
-    "id": "58265657245",
-    "nome": "Mangueira De Vácuo Da Turbina Cruze 2020-2023 1.4 ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259d-mrj5umiz3mkm74",
-    "preco_antigo": 358.99,
-    "preco_novo": 319.51,
-    "desconto_percentual": 11.0,
-    "link_afiliado": "https://s.shopee.com.br/2qUfNbKUGe",
-    "detectada_em": "18/09/2026 12:58 UTC"
-  },
-  {
-    "id": "58266489966",
-    "nome": "Mangueira Do Filtro De Ar Cruze 1.4 T 2020 - 2023 ",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ai-ms2uibz7gvt47d",
-    "preco_antigo": 180.99,
-    "preco_novo": 161.09,
-    "desconto_percentual": 11.0,
-    "link_afiliado": "https://s.shopee.com.br/2LYOmgMOHX",
     "detectada_em": "18/09/2026 12:58 UTC"
   }
 ]
