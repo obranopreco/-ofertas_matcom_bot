@@ -1,5 +1,15 @@
 [
   {
+    "id": "22197698564",
+    "nome": "Martelo Unha 20mm Tramontina - 40370/020",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwz-lyc7m9p2ezxw7f",
+    "preco_antigo": 45.56,
+    "preco_novo": 41.0,
+    "desconto_percentual": 10.0,
+    "link_afiliado": "https://s.shopee.com.br/6VO08bWzry",
+    "detectada_em": "20/09/2026 00:57 UTC"
+  },
+  {
     "id": "20399665165",
     "nome": "Jogo de Brocas para Metal e Madeira Multiuso Kit Profissional Furadeira Ferramentas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7kyybp82ibm1d",
@@ -188,15 +198,5 @@
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/5VVQpJpBZZ",
     "detectada_em": "18/09/2026 17:03 UTC"
-  },
-  {
-    "id": "58258058744",
-    "nome": "Lixadeira Combinada Bancada e Cinta Manrod MR-41417 Mono (220v)",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zty-mmj81dj5c3yd42",
-    "preco_antigo": 2701.18,
-    "preco_novo": 2296.0,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/5q8EzkQAIk",
-    "detectada_em": "18/09/2026 17:01 UTC"
   }
 ]
