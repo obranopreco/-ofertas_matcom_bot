@@ -1,5 +1,25 @@
 [
   {
+    "id": "20699325315",
+    "nome": "Cap Tampão PPR Krona 25mm Conexão Hidráulica Soldável",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwj-lxlk9cc6deve5a",
+    "preco_antigo": 11.9,
+    "preco_novo": 9.41,
+    "desconto_percentual": 21.0,
+    "link_afiliado": "https://s.shopee.com.br/9KiCCTj2LL",
+    "detectada_em": "21/09/2026 23:13 UTC"
+  },
+  {
+    "id": "11180958117",
+    "nome": "Prolongador Caixa de Gordura Pluvial Grande Metasul Conexão Hidráulica",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7qve5-ljokhr1fxpp2ac",
+    "preco_antigo": 44.9,
+    "preco_novo": 36.82,
+    "desconto_percentual": 18.0,
+    "link_afiliado": "https://s.shopee.com.br/9V1cOmiP0M",
+    "detectada_em": "21/09/2026 23:13 UTC"
+  },
+  {
     "id": "23393177081",
     "nome": "Martelo Unha Cabo Ferro 27mm Tramontina - 40800/027",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw6-lyc69exc5wa28a",
@@ -178,25 +198,5 @@
     "desconto_percentual": 39.0,
     "link_afiliado": "https://s.shopee.com.br/3qNEfBnJFi",
     "detectada_em": "19/09/2026 20:27 UTC"
-  },
-  {
-    "id": "23194174697",
-    "nome": "Martelo Unha 23mm Cabo De Ferro Sparta",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra28-mbe4fqcvhhqbe8",
-    "preco_antigo": 47.57,
-    "preco_novo": 33.3,
-    "desconto_percentual": 30.0,
-    "link_afiliado": "https://s.shopee.com.br/70KFzpnM4e",
-    "detectada_em": "19/09/2026 13:51 UTC"
-  },
-  {
-    "id": "23293230106",
-    "nome": "Martelo Unha 25mm Cabo Fibra Emborrachado MTX - 1040755",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyn-lz6h2dc76h0q65",
-    "preco_antigo": 58.29,
-    "preco_novo": 40.8,
-    "desconto_percentual": 30.0,
-    "link_afiliado": "https://s.shopee.com.br/3LQxd61JVv",
-    "detectada_em": "19/09/2026 13:51 UTC"
   }
 ]
