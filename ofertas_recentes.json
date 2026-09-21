@@ -1,5 +1,35 @@
 [
   {
+    "id": "23393177081",
+    "nome": "Martelo Unha Cabo Ferro 27mm Tramontina - 40800/027",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw6-lyc69exc5wa28a",
+    "preco_antigo": 193.2,
+    "preco_novo": 177.75,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/1qcBGWkh4J",
+    "detectada_em": "21/09/2026 19:16 UTC"
+  },
+  {
+    "id": "23293171770",
+    "nome": "Plaina Eletrica Stanley Stpp7502-B2 (220v)",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwg-lyb858cyv63uab",
+    "preco_antigo": 761.0,
+    "preco_novo": 700.12,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/LnPbZTLC5",
+    "detectada_em": "21/09/2026 19:15 UTC"
+  },
+  {
+    "id": "58200799091",
+    "nome": "Serra de Corte Policorte Industrial 12\" com Motor 4CV Trifasico Blindado WEG Cortesa SC-305",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227x-mhc1rcmyjp55a4",
+    "preco_antigo": 16030.0,
+    "preco_novo": 14747.6,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/W6ng0DvMp",
+    "detectada_em": "21/09/2026 19:15 UTC"
+  },
+  {
     "id": "58256071978",
     "nome": "Bolacha MDF 8cm Redonda Cru Kit 50 ou 100 Unidades – Base para Artesanato, Pintura e Decoração",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262r-mlc5yw0f5pmsb7",
@@ -168,35 +198,5 @@
     "desconto_percentual": 30.0,
     "link_afiliado": "https://s.shopee.com.br/3LQxd61JVv",
     "detectada_em": "19/09/2026 13:51 UTC"
-  },
-  {
-    "id": "58257760089",
-    "nome": "Lixadeira Combinada Cinta e Disco 750w com Bancada Manrod MR-43 Monofasica 220V",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260j-mmbs73q1je9w45",
-    "preco_antigo": 8179.86,
-    "preco_novo": 5725.9,
-    "desconto_percentual": 30.0,
-    "link_afiliado": "https://s.shopee.com.br/6fhNwLr65z",
-    "detectada_em": "19/09/2026 13:50 UTC"
-  },
-  {
-    "id": "11882689793",
-    "nome": "Manta Asfáltica Auto Adesiva Aluminizada 90cm X 10m Dryko",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr3kh8ybq2v8bb",
-    "preco_antigo": 178.67,
-    "preco_novo": 165.86,
-    "desconto_percentual": 7.0,
-    "link_afiliado": "https://s.shopee.com.br/3B7Vm6dZkp",
-    "detectada_em": "19/09/2026 04:22 UTC"
-  },
-  {
-    "id": "45317334011",
-    "nome": "Kit 2 Taças Fio de Ouro de Vidro Rasa para Sobremesas e Bebidas com Textura Canelada e Alta Resistência",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82586-msomb6c0zdoga2",
-    "preco_antigo": 31.9,
-    "preco_novo": 29.9,
-    "desconto_percentual": 6.0,
-    "link_afiliado": "https://s.shopee.com.br/1LfpdbiKIw",
-    "detectada_em": "19/09/2026 04:21 UTC"
   }
 ]
