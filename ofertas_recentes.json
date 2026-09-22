@@ -1,5 +1,45 @@
 [
   {
+    "id": "23198651723",
+    "nome": "Lixadeira Parede/Teto Orbital 750W LPLA-750 220v 60 Hz Lynus",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823oy-mp3lidj0yfpd30",
+    "preco_antigo": 825.5,
+    "preco_novo": 779.9,
+    "desconto_percentual": 6.0,
+    "link_afiliado": "https://s.shopee.com.br/qjhlNttlO",
+    "detectada_em": "22/09/2026 18:46 UTC"
+  },
+  {
+    "id": "23293230106",
+    "nome": "Martelo Unha 25mm Cabo Fibra Emborrachado MTX - 1040755",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyn-lz6h2dc76h0q65",
+    "preco_antigo": 40.8,
+    "preco_novo": 37.54,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/9fL4yubLun",
+    "detectada_em": "22/09/2026 18:44 UTC"
+  },
+  {
+    "id": "23397726686",
+    "nome": "Martelo de Borracha Anti Retrocesso 40mm MTX - 1098555",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyp-lz6h7jy624xga2",
+    "preco_antigo": 50.6,
+    "preco_novo": 46.56,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/1BMXZDPDnF",
+    "detectada_em": "22/09/2026 18:44 UTC"
+  },
+  {
+    "id": "23294074577",
+    "nome": "Plaina Elétrica 82Mm 620W KP0800 Makita - 220V",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rasw-man5ychq959va0",
+    "preco_antigo": 1090.0,
+    "preco_novo": 1002.8,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/3LR1RCJ55r",
+    "detectada_em": "22/09/2026 18:43 UTC"
+  },
+  {
     "id": "12257540743",
     "nome": "Fita Crepe 3m Automotiva Mascaramento 18mm X 40m 3m - 1 Rolo",
     "imagem": "https://cf.shopee.com.br/file/5c7e102b6601af519d3b806b227c7503",
@@ -158,45 +198,5 @@
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/9AOm01eRGr",
     "detectada_em": "22/09/2026 04:34 UTC"
-  },
-  {
-    "id": "23698716908",
-    "nome": "Solze Maleta Cinto Multiuso Porta Ferramentas Reforçada Preto e verde militar",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7utucdfie8ae",
-    "preco_antigo": 154.5,
-    "preco_novo": 131.32,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/8AWFf5Q0vW",
-    "detectada_em": "22/09/2026 04:34 UTC"
-  },
-  {
-    "id": "20699325315",
-    "nome": "Cap Tampão PPR Krona 25mm Conexão Hidráulica Soldável",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwj-lxlk9cc6deve5a",
-    "preco_antigo": 11.9,
-    "preco_novo": 9.41,
-    "desconto_percentual": 21.0,
-    "link_afiliado": "https://s.shopee.com.br/9KiCCTj2LL",
-    "detectada_em": "21/09/2026 23:13 UTC"
-  },
-  {
-    "id": "11180958117",
-    "nome": "Prolongador Caixa de Gordura Pluvial Grande Metasul Conexão Hidráulica",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7qve5-ljokhr1fxpp2ac",
-    "preco_antigo": 44.9,
-    "preco_novo": 36.82,
-    "desconto_percentual": 18.0,
-    "link_afiliado": "https://s.shopee.com.br/9V1cOmiP0M",
-    "detectada_em": "21/09/2026 23:13 UTC"
-  },
-  {
-    "id": "23393177081",
-    "nome": "Martelo Unha Cabo Ferro 27mm Tramontina - 40800/027",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw6-lyc69exc5wa28a",
-    "preco_antigo": 193.2,
-    "preco_novo": 177.75,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/1qcBGWkh4J",
-    "detectada_em": "21/09/2026 19:16 UTC"
   }
 ]
