@@ -1,5 +1,35 @@
 [
   {
+    "id": "43380537543",
+    "nome": "Kit 4 lixas 2000 d'agua Grão Folha Polimento Lixamento Acabamento Superfície Plástico Metal Jogo Gr",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mnriwrqy4mbk44",
+    "preco_antigo": 24.27,
+    "preco_novo": 20.72,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/5fp2XEatIn",
+    "detectada_em": "25/09/2026 22:14 UTC"
+  },
+  {
+    "id": "21599829099",
+    "nome": "Mini Arco De Serra 8-12\" Starrett - 146",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825an-mqe12stf6nm4a1",
+    "preco_antigo": 45.71,
+    "preco_novo": 29.44,
+    "desconto_percentual": 36.0,
+    "link_afiliado": "https://s.shopee.com.br/LnWBJgUcp",
+    "detectada_em": "25/09/2026 22:12 UTC"
+  },
+  {
+    "id": "22098687558",
+    "nome": "Arco de Serra 12\" (300mm) Perfil Baixo Lenox 209205012",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra0t-mbfjtokh3wtx76",
+    "preco_antigo": 260.0,
+    "preco_novo": 239.2,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/W6wNcfrHq",
+    "detectada_em": "25/09/2026 22:12 UTC"
+  },
+  {
     "id": "22494887897",
     "nome": "Jogo de Brocas Makita 9 Peças Concreto Madeira Metal D-71962",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262l-ml8pcln6fqx44a",
@@ -168,35 +198,5 @@
     "desconto_percentual": 17.0,
     "link_afiliado": "https://s.shopee.com.br/70KNLWN641",
     "detectada_em": "24/09/2026 22:18 UTC"
-  },
-  {
-    "id": "21598324580",
-    "nome": "Ferramenta Chave Allen Hexagonal L 5 Peças – Kit Profissional 2,0 a 6mm",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820o0-mnbhz018lxc6da",
-    "preco_antigo": 15.9,
-    "preco_novo": 14.99,
-    "desconto_percentual": 6.0,
-    "link_afiliado": "https://s.shopee.com.br/9zxzby5Qiv",
-    "detectada_em": "24/09/2026 22:17 UTC"
-  },
-  {
-    "id": "58201150227",
-    "nome": "Alicate Universal  6 Polegadas – Defeito Estético",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82281-mhkrkf6ur85i81",
-    "preco_antigo": 24.99,
-    "preco_novo": 18.99,
-    "desconto_percentual": 24.0,
-    "link_afiliado": "https://s.shopee.com.br/qjk09lNdV",
-    "detectada_em": "24/09/2026 22:17 UTC"
-  },
-  {
-    "id": "58267222462",
-    "nome": "Detector de Tensão Sem Contato 90V a 1000V AC Caneta Teste Elétrica com 2 Pilhas AAA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mshitosgv9xj19",
-    "preco_antigo": 18.85,
-    "preco_novo": 12.94,
-    "desconto_percentual": 31.0,
-    "link_afiliado": "https://s.shopee.com.br/5fozl26qON",
-    "detectada_em": "24/09/2026 22:17 UTC"
   }
 ]
