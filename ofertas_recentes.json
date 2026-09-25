@@ -1,5 +1,45 @@
 [
   {
+    "id": "22494887897",
+    "nome": "Jogo de Brocas Makita 9 Peças Concreto Madeira Metal D-71962",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262l-ml8pcln6fqx44a",
+    "preco_antigo": 142.86,
+    "preco_novo": 92.0,
+    "desconto_percentual": 36.0,
+    "link_afiliado": "https://s.shopee.com.br/1Lg37rciN7",
+    "detectada_em": "25/09/2026 18:30 UTC"
+  },
+  {
+    "id": "23194174697",
+    "nome": "Martelo Unha 23mm Cabo De Ferro Sparta",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra28-mbe4fqcvhhqbe8",
+    "preco_antigo": 33.3,
+    "preco_novo": 30.64,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/1gItWNI0a7",
+    "detectada_em": "25/09/2026 18:28 UTC"
+  },
+  {
+    "id": "20497761055",
+    "nome": "Lixadeira De Cinta Stanley Sb90-B2 (220v)",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-lyb5z96us26e46",
+    "preco_antigo": 797.0,
+    "preco_novo": 733.24,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/4LJehBNTlf",
+    "detectada_em": "25/09/2026 18:27 UTC"
+  },
+  {
+    "id": "20497761058",
+    "nome": "Lixadeira De Cinta Stanley Sb90-B2 (220v) + Kit Cinta Lixa 533 X 75mm",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxx-lyb5z822fqx2b3",
+    "preco_antigo": 820.9,
+    "preco_novo": 755.23,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/8fSd8KGQMH",
+    "detectada_em": "25/09/2026 18:27 UTC"
+  },
+  {
     "id": "58216226953",
     "nome": "Aspirador de Pó Industrial 2200W 90L Inox Karcher NT 90/2 (220V)",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825au-mrvqdkn05c0248",
@@ -158,45 +198,5 @@
     "desconto_percentual": 31.0,
     "link_afiliado": "https://s.shopee.com.br/5fozl26qON",
     "detectada_em": "24/09/2026 22:17 UTC"
-  },
-  {
-    "id": "21097794824",
-    "nome": "Martelo De Borracha Branco 40 MM 200GR - 30.79.000.400 - VONDER",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-lz6h65hlwfoi28",
-    "preco_antigo": 33.0,
-    "preco_novo": 30.36,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/AUuGTv83z3",
-    "detectada_em": "24/09/2026 19:00 UTC"
-  },
-  {
-    "id": "58258118190",
-    "nome": "Kit 5 Peças Mini Alicates Profissional Corte Bico Universal Cabo Antiderrapante Jogo De Precisão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mmkcjs3ejda8a8",
-    "preco_antigo": 98.0,
-    "preco_novo": 77.99,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/1Lg0b4jTce",
-    "detectada_em": "24/09/2026 19:00 UTC"
-  },
-  {
-    "id": "58261037767",
-    "nome": "Detector de Metais Alta Precisão Portátil Ajustável Profissional",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mogz0dwxxn2b03",
-    "preco_antigo": 569.99,
-    "preco_novo": 395.99,
-    "desconto_percentual": 31.0,
-    "link_afiliado": "https://s.shopee.com.br/5LC9MQGyuG",
-    "detectada_em": "24/09/2026 19:00 UTC"
-  },
-  {
-    "id": "58258890012",
-    "nome": "Kit 4 Peças De Réguas Geométricas Flexíveis Coloridas Anti-Quebra Esquadro Transferidor Régua 20cm",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mn2w2fcgunsw1d",
-    "preco_antigo": 34.9,
-    "preco_novo": 23.99,
-    "desconto_percentual": 31.0,
-    "link_afiliado": "https://s.shopee.com.br/4B0CwEXS90",
-    "detectada_em": "24/09/2026 18:59 UTC"
   }
 ]
