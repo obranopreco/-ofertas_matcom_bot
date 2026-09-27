@@ -1,5 +1,65 @@
 [
   {
+    "id": "23997289184",
+    "nome": "Cola para Azulejo e Pastilha PolyMassaplic 5kg - Pulvitec",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9oulclkqomx73",
+    "preco_antigo": 159.9,
+    "preco_novo": 86.9,
+    "desconto_percentual": 46.0,
+    "link_afiliado": "https://s.shopee.com.br/W6yQlgw37",
+    "detectada_em": "27/09/2026 05:04 UTC"
+  },
+  {
+    "id": "22599380159",
+    "nome": "Cinto Duplo Preto Solze Porta Parafusadeira Ferramentas + Multiuso",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlp0iaq5l72f41",
+    "preco_antigo": 139.9,
+    "preco_novo": 118.91,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/5fp4DUujkw",
+    "detectada_em": "27/09/2026 05:03 UTC"
+  },
+  {
+    "id": "23698716908",
+    "nome": "Solze Maleta Cinto Multiuso Porta Ferramentas Reforçada Preto e verde militar",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7utucdfie8ae",
+    "preco_antigo": 154.5,
+    "preco_novo": 131.32,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/AUuJyNcKwp",
+    "detectada_em": "27/09/2026 05:03 UTC"
+  },
+  {
+    "id": "22893646196",
+    "nome": "Kit 12 Ferramenta Entalhe Madeira Artesanato Escultura Formão Cinzel",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mq1wijhdv9qa77",
+    "preco_antigo": 37.9,
+    "preco_novo": 34.11,
+    "desconto_percentual": 10.0,
+    "link_afiliado": "https://s.shopee.com.br/6L4lNQV4jP",
+    "detectada_em": "27/09/2026 05:03 UTC"
+  },
+  {
+    "id": "58215280256",
+    "nome": "KIT MINI CHAVES FENDA E PHILIPS 6 PÇS BOMVINK BOM3125",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr9ejoho84cn1d",
+    "preco_antigo": 170.45,
+    "preco_novo": 59.66,
+    "desconto_percentual": 65.0,
+    "link_afiliado": "https://s.shopee.com.br/2VrzNTIqkl",
+    "detectada_em": "27/09/2026 05:02 UTC"
+  },
+  {
+    "id": "20797417922",
+    "nome": "Cinto Duplo Solze Verde Militar para ferramentas. Bolsa Multiuso + Coldre para parafusadeira + cinto acolchoado e fivela",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztp-mkvc11fb4gle98",
+    "preco_antigo": 132.9,
+    "preco_novo": 118.91,
+    "desconto_percentual": 11.0,
+    "link_afiliado": "https://s.shopee.com.br/9pedB9esId",
+    "detectada_em": "27/09/2026 05:01 UTC"
+  },
+  {
     "id": "22694660819",
     "nome": "Kit Goodzilla 500ml Dub Boyz Removedor de Piche Cola Adesivo Tinta Spray Pintura Caixa Rodas Pincel",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mp1gk3r0x1xf19",
@@ -138,65 +198,5 @@
     "desconto_percentual": 36.0,
     "link_afiliado": "https://s.shopee.com.br/LnWBJgUcp",
     "detectada_em": "25/09/2026 22:12 UTC"
-  },
-  {
-    "id": "22098687558",
-    "nome": "Arco de Serra 12\" (300mm) Perfil Baixo Lenox 209205012",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra0t-mbfjtokh3wtx76",
-    "preco_antigo": 260.0,
-    "preco_novo": 239.2,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/W6wNcfrHq",
-    "detectada_em": "25/09/2026 22:12 UTC"
-  },
-  {
-    "id": "22494887897",
-    "nome": "Jogo de Brocas Makita 9 Peças Concreto Madeira Metal D-71962",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262l-ml8pcln6fqx44a",
-    "preco_antigo": 142.86,
-    "preco_novo": 92.0,
-    "desconto_percentual": 36.0,
-    "link_afiliado": "https://s.shopee.com.br/1Lg37rciN7",
-    "detectada_em": "25/09/2026 18:30 UTC"
-  },
-  {
-    "id": "23194174697",
-    "nome": "Martelo Unha 23mm Cabo De Ferro Sparta",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra28-mbe4fqcvhhqbe8",
-    "preco_antigo": 33.3,
-    "preco_novo": 30.64,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/1gItWNI0a7",
-    "detectada_em": "25/09/2026 18:28 UTC"
-  },
-  {
-    "id": "20497761055",
-    "nome": "Lixadeira De Cinta Stanley Sb90-B2 (220v)",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-lyb5z96us26e46",
-    "preco_antigo": 797.0,
-    "preco_novo": 733.24,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/4LJehBNTlf",
-    "detectada_em": "25/09/2026 18:27 UTC"
-  },
-  {
-    "id": "20497761058",
-    "nome": "Lixadeira De Cinta Stanley Sb90-B2 (220v) + Kit Cinta Lixa 533 X 75mm",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxx-lyb5z822fqx2b3",
-    "preco_antigo": 820.9,
-    "preco_novo": 755.23,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/8fSd8KGQMH",
-    "detectada_em": "25/09/2026 18:27 UTC"
-  },
-  {
-    "id": "58216226953",
-    "nome": "Aspirador de Pó Industrial 2200W 90L Inox Karcher NT 90/2 (220V)",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825au-mrvqdkn05c0248",
-    "preco_antigo": 4930.0,
-    "preco_novo": 4535.6,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/9V1j0zr12I",
-    "detectada_em": "25/09/2026 13:35 UTC"
   }
 ]
