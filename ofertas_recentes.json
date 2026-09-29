@@ -1,5 +1,15 @@
 [
   {
+    "id": "58262493703",
+    "nome": "Arco de Serra Bi-Metal 12\" (300mm) Bosch",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hn-mphx6eefturmcd",
+    "preco_antigo": 217.0,
+    "preco_novo": 199.64,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/8KpsfyKu4k",
+    "detectada_em": "29/09/2026 00:57 UTC"
+  },
+  {
     "id": "12257540743",
     "nome": "Fita Crepe 3m Automotiva Mascaramento 18mm X 40m 3m - 1 Rolo",
     "imagem": "https://cf.shopee.com.br/file/5c7e102b6601af519d3b806b227c7503",
@@ -188,15 +198,5 @@
     "desconto_percentual": 36.0,
     "link_afiliado": "https://s.shopee.com.br/2gBRwQfQSI",
     "detectada_em": "26/09/2026 12:58 UTC"
-  },
-  {
-    "id": "58257760089",
-    "nome": "Lixadeira Combinada Cinta e Disco 750w com Bancada Manrod MR-43 Monofasica 220V",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260j-mmbs73q1je9w45",
-    "preco_antigo": 5725.9,
-    "preco_novo": 5267.83,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/2Vs1k24Tx9",
-    "detectada_em": "26/09/2026 12:57 UTC"
   }
 ]
