@@ -1,5 +1,25 @@
 [
   {
+    "id": "58218628814",
+    "nome": "Disco Diamantado Cortag Turbo 110mm 4.3/8 - Resistente, Alta Velocidade e Acabamento Preciso",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lu-mte1t9pjplhed4",
+    "preco_antigo": 35.0,
+    "preco_novo": 33.0,
+    "desconto_percentual": 6.0,
+    "link_afiliado": "https://s.shopee.com.br/7ptZAI0TA2",
+    "detectada_em": "29/09/2026 19:19 UTC"
+  },
+  {
+    "id": "58266951574",
+    "nome": "Kit 6 Peças SDS Plus para Martelete com Talhadeiras, Ponteira e Brocas para Concreto",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-msbsun0l5fr8e9",
+    "preco_antigo": 71.9,
+    "preco_novo": 65.52,
+    "desconto_percentual": 9.0,
+    "link_afiliado": "https://s.shopee.com.br/9V1n99uVI6",
+    "detectada_em": "29/09/2026 19:16 UTC"
+  },
+  {
     "id": "18441139672",
     "nome": "Kit 5 Pçs Plafonier Plafon Soquete Porcelana E27 100w Branco",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lk5pnwcnjt6y6f",
@@ -178,25 +198,5 @@
     "desconto_percentual": 10.0,
     "link_afiliado": "https://s.shopee.com.br/6L4lNQV4jP",
     "detectada_em": "27/09/2026 05:03 UTC"
-  },
-  {
-    "id": "58215280256",
-    "nome": "KIT MINI CHAVES FENDA E PHILIPS 6 PÇS BOMVINK BOM3125",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr9ejoho84cn1d",
-    "preco_antigo": 170.45,
-    "preco_novo": 59.66,
-    "desconto_percentual": 65.0,
-    "link_afiliado": "https://s.shopee.com.br/2VrzNTIqkl",
-    "detectada_em": "27/09/2026 05:02 UTC"
-  },
-  {
-    "id": "20797417922",
-    "nome": "Cinto Duplo Solze Verde Militar para ferramentas. Bolsa Multiuso + Coldre para parafusadeira + cinto acolchoado e fivela",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztp-mkvc11fb4gle98",
-    "preco_antigo": 132.9,
-    "preco_novo": 118.91,
-    "desconto_percentual": 11.0,
-    "link_afiliado": "https://s.shopee.com.br/9pedB9esId",
-    "detectada_em": "27/09/2026 05:01 UTC"
   }
 ]
