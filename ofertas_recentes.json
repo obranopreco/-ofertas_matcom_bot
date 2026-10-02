@@ -1,5 +1,25 @@
 [
   {
+    "id": "23298746534",
+    "nome": "Impermeabilizante Óleo De Baleia 3,2 Litros VBrasil Original",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu1-mkqqaixl8hkw5a",
+    "preco_antigo": 187.89,
+    "preco_novo": 157.83,
+    "desconto_percentual": 16.0,
+    "link_afiliado": "https://s.shopee.com.br/4B0NvMwvT4",
+    "detectada_em": "02/10/2026 01:33 UTC"
+  },
+  {
+    "id": "58258833430",
+    "nome": "Nivel Laser Alta Precisão Com Trena 2,5 Mt e Régua Modelo LV03 8 Metros",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mn39gtw9bapw4b",
+    "preco_antigo": 43.3,
+    "preco_novo": 36.81,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/7VGpOPwx8A",
+    "detectada_em": "02/10/2026 01:31 UTC"
+  },
+  {
     "id": "18498160146",
     "nome": "Registro Adaptador valvula Torneira Purificador Consul W10727681 CPB33 CPB34 CPC30 CPC31 CPB36",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhw-m9ezdau23qg71d",
@@ -110,16 +130,6 @@
     "detectada_em": "01/10/2026 16:18 UTC"
   },
   {
-    "id": "23298746534",
-    "nome": "Impermeabilizante Óleo De Baleia 3,2 Litros VBrasil Original",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu1-mkqqaixl8hkw5a",
-    "preco_antigo": 203.4,
-    "preco_novo": 187.89,
-    "desconto_percentual": 8.0,
-    "link_afiliado": "https://s.shopee.com.br/4B0NvMwvT4",
-    "detectada_em": "01/10/2026 16:18 UTC"
-  },
-  {
     "id": "20899836562",
     "nome": "Renovador de Rejunte 200ml Restaura Fácil Piso Azulejo Interno Externo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6iam6g8rdza0",
@@ -188,15 +198,5 @@
     "desconto_percentual": 7.0,
     "link_afiliado": "https://s.shopee.com.br/7faFalhyYy",
     "detectada_em": "01/10/2026 16:17 UTC"
-  },
-  {
-    "id": "58213568948",
-    "nome": "Jogo Chaves Fenda E Philips Isoladas Profissional Imã 6 Pçs",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b9-mq6h268cvjezdb",
-    "preco_antigo": 31.9,
-    "preco_novo": 26.9,
-    "desconto_percentual": 16.0,
-    "link_afiliado": "https://s.shopee.com.br/905dBD3dKg",
-    "detectada_em": "01/10/2026 16:16 UTC"
   }
 ]
