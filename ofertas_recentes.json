@@ -1,5 +1,35 @@
 [
   {
+    "id": "20798320441",
+    "nome": "Óculos De Proteção Incolor CA40091 - Valeplast",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a7-mge1p9m123ny12",
+    "preco_antigo": 19.03,
+    "preco_novo": 17.5,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/BUPvw7P6i",
+    "detectada_em": "09/10/2026 13:05 UTC"
+  },
+  {
+    "id": "21199368152",
+    "nome": "Martelo Unha 23mm Gedore Red R92400016 - 3369923",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw4-lz6h6qq0v7tmd0",
+    "preco_antigo": 88.43,
+    "preco_novo": 61.9,
+    "desconto_percentual": 30.0,
+    "link_afiliado": "https://s.shopee.com.br/8fSzpNRnVY",
+    "detectada_em": "09/10/2026 13:03 UTC"
+  },
+  {
+    "id": "22693055477",
+    "nome": "Alicate Universal 8 Pol 200mm Black Nickel Mtx",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvn40n2m3h7q2a",
+    "preco_antigo": 33.0,
+    "preco_novo": 30.75,
+    "desconto_percentual": 7.0,
+    "link_afiliado": "https://s.shopee.com.br/1B11fnema",
+    "detectada_em": "09/10/2026 13:02 UTC"
+  },
+  {
     "id": "22697494673",
     "nome": "Mangueira Saída de Água 3m Tanquinho Universal Drenagem Flexível Alta Resistência",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggj8dn398ucc6",
@@ -168,35 +198,5 @@
     "desconto_percentual": 23.0,
     "link_afiliado": "https://s.shopee.com.br/4LJzOBr0gu",
     "detectada_em": "08/10/2026 17:49 UTC"
-  },
-  {
-    "id": "23897672131",
-    "nome": "Martelo Demolidor Makita Hm0870c 1100w (220v)",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx1-lyaw9jypl5hja2",
-    "preco_antigo": 4185.71,
-    "preco_novo": 2830.0,
-    "desconto_percentual": 32.0,
-    "link_afiliado": "https://s.shopee.com.br/Lnqcn339O",
-    "detectada_em": "08/10/2026 17:49 UTC"
-  },
-  {
-    "id": "58206011047",
-    "nome": "Kit 20 Discos de Corte VILA Aço Inox 4.1/2” 115mm Alta Performance profissional",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-msul0uqjerye41",
-    "preco_antigo": 39.99,
-    "preco_novo": 34.0,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/9V2534CPn2",
-    "detectada_em": "08/10/2026 10:23 UTC"
-  },
-  {
-    "id": "19999207314",
-    "nome": "Cinturão  Organizador para Ferramentas em lona reforçada com fecho rápido e regulável",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcd4-lsigzydhwguq0b",
-    "preco_antigo": 59.0,
-    "preco_novo": 50.15,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/9fLVFHeSuB",
-    "detectada_em": "08/10/2026 10:22 UTC"
   }
 ]
