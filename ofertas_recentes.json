@@ -1,5 +1,25 @@
 [
   {
+    "id": "22594414128",
+    "nome": "Rolo para pintura Antirespingo  23CM",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h6-mekq5u7kqfba0f",
+    "preco_antigo": 34.98,
+    "preco_novo": 14.7,
+    "desconto_percentual": 58.0,
+    "link_afiliado": "https://s.shopee.com.br/3g4N7kRN6v",
+    "detectada_em": "11/10/2026 13:58 UTC"
+  },
+  {
+    "id": "58264974003",
+    "nome": "Textucor Tinta Látex Fosca 3,6l Azul Caribe Interno Externo Azul Caribe",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258i-mr2qev5mu8ec14",
+    "preco_antigo": 65.9,
+    "preco_novo": 56.02,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/7KxfUT59cF",
+    "detectada_em": "11/10/2026 13:58 UTC"
+  },
+  {
     "id": "22697494673",
     "nome": "Mangueira Saída de Água 3m Tanquinho Universal Drenagem Flexível Alta Resistência",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggj8dn398ucc6",
@@ -177,26 +197,6 @@
     "preco_novo": 53.62,
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/3qNlyq7hmi",
-    "detectada_em": "10/10/2026 17:46 UTC"
-  },
-  {
-    "id": "58264969365",
-    "nome": "Tinta Látex Fosca 3,6l Textucor Interno Externo Azul-marinho",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258k-mr2qfrzmha8577",
-    "preco_antigo": 65.9,
-    "preco_novo": 56.02,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/6L56b2idqu",
-    "detectada_em": "10/10/2026 17:46 UTC"
-  },
-  {
-    "id": "58213196884",
-    "nome": "Textucor Tinta Látex Fosca Económica 3,6l Branco Uso Interno",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825az-mr2t0nvz589281",
-    "preco_antigo": 49.9,
-    "preco_novo": 42.42,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/5q8q07kXrl",
     "detectada_em": "10/10/2026 17:46 UTC"
   }
 ]
