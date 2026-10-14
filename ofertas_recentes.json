@@ -1,5 +1,25 @@
 [
   {
+    "id": "22793841193",
+    "nome": "Detector de Metal até 1m c/ Pilha IWDM002",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd41-m7mkm6ny5odj99",
+    "preco_antigo": 247.16,
+    "preco_novo": 169.0,
+    "desconto_percentual": 32.0,
+    "link_afiliado": "https://s.shopee.com.br/60SNLMdrB3",
+    "detectada_em": "14/10/2026 23:50 UTC"
+  },
+  {
+    "id": "22893218598",
+    "nome": "Esquadro Metalico 14\" 350mm Cabo de Aluminio Sparta - 3234655",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxx-lyuvagcqlpwic3",
+    "preco_antigo": 25.0,
+    "preco_novo": 17.5,
+    "desconto_percentual": 30.0,
+    "link_afiliado": "https://s.shopee.com.br/80DRj25m9n",
+    "detectada_em": "14/10/2026 23:50 UTC"
+  },
+  {
     "id": "13098136077",
     "nome": "Registro de Pressão Para Chuveiro 1416 Cromado 1/2 Completo 1/4 de volta C-61 Metal",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-23010-0oq9l8xy5qmv41",
@@ -178,25 +198,5 @@
     "desconto_percentual": 10.0,
     "link_afiliado": "https://s.shopee.com.br/5q8vVfwjcU",
     "detectada_em": "13/10/2026 23:14 UTC"
-  },
-  {
-    "id": "58216888693",
-    "nome": "Kit 3 Luva Azul Soldável Tigre 25mm 3/4 com Bucha Latão PVC Conexão Hidráulica Água Fia",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82593-msbezuv6vzm060",
-    "preco_antigo": 36.19,
-    "preco_novo": 31.11,
-    "desconto_percentual": 14.0,
-    "link_afiliado": "https://s.shopee.com.br/4VdXaIXR27",
-    "detectada_em": "13/10/2026 18:09 UTC"
-  },
-  {
-    "id": "58266877316",
-    "nome": "Curva Soldável 90° 50mm PVC Marrom Tigre Conexão Hidráulica Soldável Água Fria",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259t-msbes4xjq7m124",
-    "preco_antigo": 26.7,
-    "preco_novo": 22.95,
-    "desconto_percentual": 14.0,
-    "link_afiliado": "https://s.shopee.com.br/4B0hBgYhi1",
-    "detectada_em": "13/10/2026 18:09 UTC"
   }
 ]
