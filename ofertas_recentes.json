@@ -1,5 +1,25 @@
 [
   {
+    "id": "22798142837",
+    "nome": "Kit 12 Ferramenta Entalhe Madeira Artesanato Escultura Formão Cinzel",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra21-m552plffd8sq80",
+    "preco_antigo": 41.9,
+    "preco_novo": 37.71,
+    "desconto_percentual": 10.0,
+    "link_afiliado": "https://s.shopee.com.br/1B8v7VLQ7",
+    "detectada_em": "14/10/2026 04:36 UTC"
+  },
+  {
+    "id": "23194652778",
+    "nome": "Kit Jogo 16 Brocas Estojo Ferro Concreto Madeira Videa Aço Para Furadeira - HSS Aço Rápido",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mtzc5iklj40332",
+    "preco_antigo": 35.0,
+    "preco_novo": 29.75,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/70KstvcKur",
+    "detectada_em": "14/10/2026 04:36 UTC"
+  },
+  {
     "id": "58206657220",
     "nome": "Régua Extensão 5 Tomadas E 4 Usb 4 Pd Led Bivolt 110v/220v",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82601-mlnrrg8tciyqc0",
@@ -178,25 +198,5 @@
     "desconto_percentual": 12.0,
     "link_afiliado": "https://s.shopee.com.br/9pf3QDWz9E",
     "detectada_em": "13/10/2026 10:25 UTC"
-  },
-  {
-    "id": "58218551999",
-    "nome": "Martelo De Borracha Robusto Para Piso Alça Metal Reformas Pedreiro Construção Envio Rápido",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259x-mtd862gym41z80",
-    "preco_antigo": 24.9,
-    "preco_novo": 19.9,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/60SJuk5pqf",
-    "detectada_em": "13/10/2026 10:24 UTC"
-  },
-  {
-    "id": "23194652778",
-    "nome": "Kit Jogo 16 Brocas Estojo Ferro Concreto Madeira Videa Aço Para Furadeira - HSS Aço Rápido",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mtzc5iklj40332",
-    "preco_antigo": 35.0,
-    "preco_novo": 29.75,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/qkC4NKwP1",
-    "detectada_em": "13/10/2026 10:24 UTC"
   }
 ]
