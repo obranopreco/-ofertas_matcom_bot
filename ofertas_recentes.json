@@ -1,5 +1,15 @@
 [
   {
+    "id": "58250088976",
+    "nome": "Fechadura Tranca Superior Capô Mb 1117",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mgd2b2hct24t35",
+    "preco_antigo": 82.95,
+    "preco_novo": 76.32,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/5LChpIdcm5",
+    "detectada_em": "15/10/2026 19:03 UTC"
+  },
+  {
     "id": "58216884588",
     "nome": "Kit 3 Adaptador Curto Tigre 25mm x 3/4 PVC Soldável Rosca Macho Conexão Água Fria Hidráulico Tubo Registro Transição",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82589-msbf0akrubd66a",
@@ -188,15 +198,5 @@
     "desconto_percentual": 8.0,
     "link_afiliado": "https://s.shopee.com.br/4B0iulnvJS",
     "detectada_em": "14/10/2026 20:08 UTC"
-  },
-  {
-    "id": "23795177335",
-    "nome": "Kit 10 Joelho 90° Tigre 25mm 1/2 PVC Soldável Bucha Latão Conexão Hidráulica Água Fria Rosca Encanamento Curva 90 Graus",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbedj0eyryace",
-    "preco_antigo": 105.33,
-    "preco_novo": 79.15,
-    "desconto_percentual": 25.0,
-    "link_afiliado": "https://s.shopee.com.br/5q8wc6cg3q",
-    "detectada_em": "14/10/2026 15:50 UTC"
   }
 ]
