@@ -1,5 +1,15 @@
 [
   {
+    "id": "20999647916",
+    "nome": "Dobradiça Inferior da Porta Da Geladeira Brastemp",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd55-m77hnuetfqbw15",
+    "preco_antigo": 68.75,
+    "preco_novo": 42.0,
+    "desconto_percentual": 39.0,
+    "link_afiliado": "https://s.shopee.com.br/9fLiT9EA22",
+    "detectada_em": "16/10/2026 17:21 UTC"
+  },
+  {
     "id": "58207908121",
     "nome": "Kit Jogo De Alicate Bico Pressão E Corte Profissional",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrd1v849q1okcb",
@@ -188,15 +198,5 @@
     "desconto_percentual": 27.0,
     "link_afiliado": "https://s.shopee.com.br/9APPPiuZSX",
     "detectada_em": "15/10/2026 04:20 UTC"
-  },
-  {
-    "id": "23698716908",
-    "nome": "Solze Maleta Cinto Multiuso Porta Ferramentas Reforçada Preto e verde militar",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7utucdfie8ae",
-    "preco_antigo": 154.5,
-    "preco_novo": 131.32,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/1VzyHZpdPI",
-    "detectada_em": "15/10/2026 04:19 UTC"
   }
 ]
