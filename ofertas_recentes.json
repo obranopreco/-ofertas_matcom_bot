@@ -1,5 +1,25 @@
 [
   {
+    "id": "42083164142",
+    "nome": "Lixa 320 600 1200 1500 2000 2500 3000 4000 Kit 1 Folha de Cada Grão Funilaria Pintura Plásticos Gr",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mrbvu9dy5yiva8",
+    "preco_antigo": 66.06,
+    "preco_novo": 58.5,
+    "desconto_percentual": 11.0,
+    "link_afiliado": "https://s.shopee.com.br/1Lgc7LfCPw",
+    "detectada_em": "17/10/2026 17:01 UTC"
+  },
+  {
+    "id": "45905150296",
+    "nome": "Lixa 800 1200 2000 2500 3000 kit 1 2 ou 3 folhas de cada Grão Farol Polimento Licha Plásticos Metal",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjsx58fsl4w33c",
+    "preco_antigo": 32.63,
+    "preco_novo": 28.82,
+    "desconto_percentual": 12.0,
+    "link_afiliado": "https://s.shopee.com.br/8V9meWDusF",
+    "detectada_em": "17/10/2026 17:01 UTC"
+  },
+  {
     "id": "58216884453",
     "nome": "Kit 6 Tigre Joelho Soldável 90 50mm PVC Conexão Hidráulica Curva Água Fia Instalação Fácil Adesivo Durável Vedação",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82597-msbeyl6z7hms03",
@@ -178,25 +198,5 @@
     "desconto_percentual": 14.0,
     "link_afiliado": "https://s.shopee.com.br/4B0keJIEOP",
     "detectada_em": "15/10/2026 22:14 UTC"
-  },
-  {
-    "id": "22698818511",
-    "nome": "Kit Jogo Chaves Torx Imantada Cromo Vanádio Com Furo Guia T8 T10 T15 T20 T25 T27 T30 T40 T45 KITS COM 3,5,8 E 9 TORX",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mdfcxk45drdg94",
-    "preco_antigo": 72.97,
-    "preco_novo": 49.96,
-    "desconto_percentual": 32.0,
-    "link_afiliado": "https://s.shopee.com.br/8V9icPLX0Z",
-    "detectada_em": "15/10/2026 22:11 UTC"
-  },
-  {
-    "id": "22298037153",
-    "nome": "Furadeira De Impacto Com Kit 650w 10mm 110V G1905K/BR1 Gamma",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262p-mko95jdpx0xt5a",
-    "preco_antigo": 369.9,
-    "preco_novo": 145.2,
-    "desconto_percentual": 61.0,
-    "link_afiliado": "https://s.shopee.com.br/2LZ5yJZPz8",
-    "detectada_em": "15/10/2026 22:10 UTC"
   }
 ]
