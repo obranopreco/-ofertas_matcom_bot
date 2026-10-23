@@ -1,5 +1,55 @@
 [
   {
+    "id": "24047681285",
+    "nome": "Um Conjunto De Óculos Totalmente Fechados , Proteção Industrial Do Trabalho , Prevenção De Poeira E Neblina , De Para Ci",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134301-821eg-mglwnngjhrez8c",
+    "preco_antigo": 32.15,
+    "preco_novo": 30.49,
+    "desconto_percentual": 5.0,
+    "link_afiliado": "https://s.shopee.com.br/50a3DsQtxj",
+    "detectada_em": "23/10/2026 04:30 UTC"
+  },
+  {
+    "id": "22694247866",
+    "nome": "ARGAMASSA IMPERMEABILIZANTE BAUTECH 7000 / 18KG | FLEXÍVEL COM FIBRAS",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md4ppm4nekn5e1",
+    "preco_antigo": 210.97,
+    "preco_novo": 199.0,
+    "desconto_percentual": 6.0,
+    "link_afiliado": "https://s.shopee.com.br/5q99eGF7TK",
+    "detectada_em": "23/10/2026 04:29 UTC"
+  },
+  {
+    "id": "19999207314",
+    "nome": "Cinturão  Organizador para Ferramentas em lona reforçada com fecho rápido e regulável",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcd4-lsigzydhwguq0b",
+    "preco_antigo": 59.0,
+    "preco_novo": 50.15,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/5fpjRuPpnH",
+    "detectada_em": "23/10/2026 04:28 UTC"
+  },
+  {
+    "id": "43526994583",
+    "nome": "Aspirador de Pó e Líquidos Industrial 60L 2460W 220V Vonder APV2460 Profissional",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mqly4bgrtmv632",
+    "preco_antigo": 2438.65,
+    "preco_novo": 2107.97,
+    "desconto_percentual": 14.0,
+    "link_afiliado": "https://s.shopee.com.br/4qGd1Msmqo",
+    "detectada_em": "23/10/2026 04:27 UTC"
+  },
+  {
+    "id": "22298037153",
+    "nome": "Furadeira De Impacto Com Kit 650w 10mm 110V G1905K/BR1 Gamma",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262p-mko95jdpx0xt5a",
+    "preco_antigo": 369.9,
+    "preco_novo": 145.2,
+    "desconto_percentual": 61.0,
+    "link_afiliado": "https://s.shopee.com.br/80DdCUX2p7",
+    "detectada_em": "23/10/2026 04:26 UTC"
+  },
+  {
     "id": "52466593486",
     "nome": "Disco Abrasivo De Corte 115X 1,0 X 22,2 DAC11514 Starret",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b9-msaact8966meaf",
@@ -148,55 +198,5 @@
     "desconto_percentual": 10.0,
     "link_afiliado": "https://s.shopee.com.br/2qVXktV20g",
     "detectada_em": "22/10/2026 15:09 UTC"
-  },
-  {
-    "id": "58264974256",
-    "nome": "Tinta Acrílica Látex Fosca 18l Azul Caribe Interno E Externo",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825al-mr2sr6u9qq6d4a",
-    "preco_antigo": 316.41,
-    "preco_novo": 284.77,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/30oxxCUOfh",
-    "detectada_em": "22/10/2026 15:09 UTC"
-  },
-  {
-    "id": "58264978759",
-    "nome": "Tinta Acrílica Látex Fosca 18l Laranja Uso Interno E Externo",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mr2sw86w969z74",
-    "preco_antigo": 316.41,
-    "preco_novo": 284.77,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/3B8O9VTlKi",
-    "detectada_em": "22/10/2026 15:09 UTC"
-  },
-  {
-    "id": "58264983507",
-    "nome": "Tinta Acrílica Látex Fosca 18l Azul Marinho Interno  Externo",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258w-mr2sq81jrb4413",
-    "preco_antigo": 316.41,
-    "preco_novo": 284.77,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/4fxBwGO3Hz",
-    "detectada_em": "22/10/2026 15:09 UTC"
-  },
-  {
-    "id": "58264983522",
-    "nome": "Tinta Acrílica Látex Fosca 18l Cinza Uso Interno E Externo",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82599-mr2sx7ic7e9y5e",
-    "preco_antigo": 316.41,
-    "preco_novo": 284.77,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/4qGc8ZNPx0",
-    "detectada_em": "22/10/2026 15:09 UTC"
-  },
-  {
-    "id": "22698818511",
-    "nome": "Kit Jogo Chaves Torx Imantada Cromo Vanádio Com Furo Guia T8 T10 T15 T20 T25 T27 T30 T40 T45 KITS COM 3,5,8 E 9 TORX",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mdfcxk45drdg94",
-    "preco_antigo": 49.96,
-    "preco_novo": 36.97,
-    "desconto_percentual": 26.0,
-    "link_afiliado": "https://s.shopee.com.br/9pfHNs88Ep",
-    "detectada_em": "22/10/2026 15:08 UTC"
   }
 ]
