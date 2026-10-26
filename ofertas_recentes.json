@@ -1,5 +1,45 @@
 [
   {
+    "id": "12257540743",
+    "nome": "Fita Crepe 3m Automotiva Mascaramento 18mm X 40m 3m - 1 Rolo",
+    "imagem": "https://cf.shopee.com.br/file/5c7e102b6601af519d3b806b227c7503",
+    "preco_antigo": 16.62,
+    "preco_novo": 13.99,
+    "desconto_percentual": 16.0,
+    "link_afiliado": "https://s.shopee.com.br/1W0GoYeuhn",
+    "detectada_em": "26/10/2026 19:10 UTC"
+  },
+  {
+    "id": "58201375690",
+    "nome": "Kit 10 Bonecos Biscoito de Gengibre MDF Para Pintura Infantil DIY Decorativo",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mn6pugm4nqx092",
+    "preco_antigo": 39.99,
+    "preco_novo": 19.99,
+    "desconto_percentual": 50.0,
+    "link_afiliado": "https://s.shopee.com.br/5AtYIvpHjb",
+    "detectada_em": "26/10/2026 19:10 UTC"
+  },
+  {
+    "id": "21199368153",
+    "nome": "Martelo Unha 25mm Gedore Red R92400019 - 3369924",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwj-lz6h6qtcoy3ue4",
+    "preco_antigo": 102.86,
+    "preco_novo": 72.0,
+    "desconto_percentual": 30.0,
+    "link_afiliado": "https://s.shopee.com.br/1W0GoUpKTn",
+    "detectada_em": "26/10/2026 19:09 UTC"
+  },
+  {
+    "id": "22698818511",
+    "nome": "Kit Jogo Chaves Torx Imantada Cromo Vanádio Com Furo Guia T8 T10 T15 T20 T25 T27 T30 T40 T45 KITS COM 3,5,8 E 9 TORX",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mus1at6jrytc84",
+    "preco_antigo": 49.96,
+    "preco_novo": 39.97,
+    "desconto_percentual": 20.0,
+    "link_afiliado": "https://s.shopee.com.br/7fau9ofarP",
+    "detectada_em": "26/10/2026 19:09 UTC"
+  },
+  {
     "id": "23594674020",
     "nome": "Tinta Piso Emborrachado Resiflex 16L Antiderrapante Proteção UV, Durabilidade e Máxima Aderência",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mq4ub0oin9xe65",
@@ -158,45 +198,5 @@
     "desconto_percentual": 10.0,
     "link_afiliado": "https://s.shopee.com.br/2BFv1uGdBc",
     "detectada_em": "25/10/2026 04:22 UTC"
-  },
-  {
-    "id": "22698818511",
-    "nome": "Kit Jogo Chaves Torx Imantada Cromo Vanádio Com Furo Guia T8 T10 T15 T20 T25 T27 T30 T40 T45 KITS COM 3,5,8 E 9 TORX",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mdfcxk45drdg94",
-    "preco_antigo": 49.96,
-    "preco_novo": 36.97,
-    "desconto_percentual": 26.0,
-    "link_afiliado": "https://s.shopee.com.br/30p1I0TRxt",
-    "detectada_em": "24/10/2026 23:04 UTC"
-  },
-  {
-    "id": "22498956034",
-    "nome": "Capacete de Seguranca Amarelo Aba Frontal Vonder - 70.90.000.010",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824io-mf9uoyifxmoc9a",
-    "preco_antigo": 23.43,
-    "preco_novo": 16.4,
-    "desconto_percentual": 30.0,
-    "link_afiliado": "https://s.shopee.com.br/AUv2DwAOVI",
-    "detectada_em": "24/10/2026 17:23 UTC"
-  },
-  {
-    "id": "22594807525",
-    "nome": "Kit 3 Quadros Mona Lisa Van Gogh Banheiro Paródia Pinturas Famosas Arte Clássica Banheiro",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjp0pe01bls671",
-    "preco_antigo": 28.79,
-    "preco_novo": 26.09,
-    "desconto_percentual": 9.0,
-    "link_afiliado": "https://s.shopee.com.br/qkVqN8RlT",
-    "detectada_em": "24/10/2026 04:19 UTC"
-  },
-  {
-    "id": "58268658037",
-    "nome": "Kit Pintura Roma Completo Rolo Pincel Trincha Bandeja para Pintura Parede Casa",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mb-mte2r72ugem994",
-    "preco_antigo": 28.99,
-    "preco_novo": 27.54,
-    "desconto_percentual": 5.0,
-    "link_afiliado": "https://s.shopee.com.br/5LCuJLz4ev",
-    "detectada_em": "24/10/2026 04:19 UTC"
   }
 ]
