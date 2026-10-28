@@ -1,5 +1,25 @@
 [
   {
+    "id": "58203713706",
+    "nome": "Kit 3 Quadros Abstrato Mar e Pássaros Paisagem Pintura Óleo Pôr do Sol no Mar Tons de Azul e Dourado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjqbo0d9coht94",
+    "preco_antigo": 89.99,
+    "preco_novo": 28.79,
+    "desconto_percentual": 68.0,
+    "link_afiliado": "https://s.shopee.com.br/40helZFvzv",
+    "detectada_em": "28/10/2026 15:55 UTC"
+  },
+  {
+    "id": "23397667995",
+    "nome": "Serrote Profissional Jack 24\" 600mm Irwin - Iw45296/Iwht20380-La",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxz-lyb45jmci5fqeb",
+    "preco_antigo": 205.71,
+    "preco_novo": 144.0,
+    "desconto_percentual": 30.0,
+    "link_afiliado": "https://s.shopee.com.br/8pmuWOTws1",
+    "detectada_em": "28/10/2026 15:55 UTC"
+  },
+  {
     "id": "58202091223",
     "nome": "BAUTECH 5000 Argamassa Impermeabilizante Bicomponente Flexível Alta Performance",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mid3r0ix8ef515",
@@ -178,25 +198,5 @@
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/5LCxST9TXp",
     "detectada_em": "25/10/2026 14:15 UTC"
-  },
-  {
-    "id": "42174394366",
-    "nome": "Limpa Telas Petra 500ml – Limpa Lentes, Celulares e Óculos | Brilho, Proteção e Alta Eficiência",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mlm6sbf9uzgnfa",
-    "preco_antigo": 24.9,
-    "preco_novo": 19.9,
-    "desconto_percentual": 20.0,
-    "link_afiliado": "https://s.shopee.com.br/9pfLQiUjhD",
-    "detectada_em": "25/10/2026 04:24 UTC"
-  },
-  {
-    "id": "40424394506",
-    "nome": "Kit 3 Limpa Telas Petra 500ml – Limpa Lentes, Celulares e Óculos | Brilho, Proteção e Alta Eficiência",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mlp5jin1ul8k4d",
-    "preco_antigo": 54.9,
-    "preco_novo": 49.9,
-    "desconto_percentual": 9.0,
-    "link_afiliado": "https://s.shopee.com.br/9V2V26W0N7",
-    "detectada_em": "25/10/2026 04:24 UTC"
   }
 ]
