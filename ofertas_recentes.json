@@ -1,5 +1,25 @@
 [
   {
+    "id": "58212414451",
+    "nome": "Chave Philips Profissional Varios Tamanhos MbTools Aço Premium",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mpe0qhun12x269",
+    "preco_antigo": 35.0,
+    "preco_novo": 29.75,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/8pmxaK1jEP",
+    "detectada_em": "31/10/2026 17:38 UTC"
+  },
+  {
+    "id": "58212947403",
+    "nome": "Furadeira Infantil Elétrica com Rotação e Acessórios Brinquedo de Ferramentas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqqeje6f1kapae",
+    "preco_antigo": 54.9,
+    "preco_novo": 49.41,
+    "desconto_percentual": 10.0,
+    "link_afiliado": "https://s.shopee.com.br/9pfTaa1eGT",
+    "detectada_em": "31/10/2026 17:36 UTC"
+  },
+  {
     "id": "22697494673",
     "nome": "Mangueira Saída de Água 3m Tanquinho Universal Drenagem Flexível Alta Resistência",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggj8dn398ucc6",
@@ -178,25 +198,5 @@
     "desconto_percentual": 6.0,
     "link_afiliado": "https://s.shopee.com.br/9V2dCGquXY",
     "detectada_em": "30/10/2026 07:01 UTC"
-  },
-  {
-    "id": "57618437068",
-    "nome": "Kit Cuidados Diários : Navalha Sobrancelhas, lixa de Unhas, Espátula e Removedor de Cutículas - Prático e Portátil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mtsqgej89qted7",
-    "preco_antigo": 15.0,
-    "preco_novo": 13.49,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/5AteLB9xWd",
-    "detectada_em": "30/10/2026 07:00 UTC"
-  },
-  {
-    "id": "58270871239",
-    "nome": "Kit Jogo Serra Copo 6 Peças Broca Madeira Gesso Drywall 32 38 44 51mm Furadeira Furador de Madeira Cortador de Furos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-muih7fsdv6ki79",
-    "preco_antigo": 33.62,
-    "preco_novo": 23.32,
-    "desconto_percentual": 31.0,
-    "link_afiliado": "https://s.shopee.com.br/5q9Jwt0wBu",
-    "detectada_em": "30/10/2026 07:00 UTC"
   }
 ]
