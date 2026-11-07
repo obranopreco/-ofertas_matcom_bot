@@ -1,5 +1,15 @@
 [
   {
+    "id": "23397726682",
+    "nome": "Martelo de Borracha Branco - 30 79 000 600 - VONDER",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-lz6h7j15eg4ob5",
+    "preco_antigo": 43.2,
+    "preco_novo": 41.04,
+    "desconto_percentual": 5.0,
+    "link_afiliado": "https://s.shopee.com.br/114HCcCyM7",
+    "detectada_em": "07/11/2026 16:18 UTC"
+  },
+  {
     "id": "22694247866",
     "nome": "ARGAMASSA IMPERMEABILIZANTE BAUTECH 7000 / 18KG | FLEXÍVEL COM FIBRAS",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md4ppm4nekn5e1",
@@ -187,16 +197,6 @@
     "preco_novo": 79.9,
     "desconto_percentual": 15.0,
     "link_afiliado": "https://s.shopee.com.br/9V2olE3YbT",
-    "detectada_em": "06/11/2026 10:44 UTC"
-  },
-  {
-    "id": "19999207314",
-    "nome": "Cinturão  Organizador para Ferramentas em lona reforçada com fecho rápido e regulável",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcd4-lsigzydhwguq0b",
-    "preco_antigo": 59.0,
-    "preco_novo": 50.15,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/9fMExX2vGS",
     "detectada_em": "06/11/2026 10:44 UTC"
   }
 ]
