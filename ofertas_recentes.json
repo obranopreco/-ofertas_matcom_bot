@@ -1,5 +1,15 @@
 [
   {
+    "id": "22493572535",
+    "nome": "Trilho Din PERFURADO Para Disjuntor",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5ybpcchaqpe92",
+    "preco_antigo": 9.99,
+    "preco_novo": 5.0,
+    "desconto_percentual": 50.0,
+    "link_afiliado": "https://s.shopee.com.br/9pfigBgylV",
+    "detectada_em": "08/11/2026 19:36 UTC"
+  },
+  {
     "id": "58256016165",
     "nome": "Kit 3 Alicates Profissional - Alicate Universal, Alicate de Corte, Alicate de Bico Premium",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mr6oyah5p2x206",
@@ -188,15 +198,5 @@
     "desconto_percentual": 7.0,
     "link_afiliado": "https://s.shopee.com.br/5LDFW2WDd0",
     "detectada_em": "06/11/2026 17:57 UTC"
-  },
-  {
-    "id": "22698818511",
-    "nome": "Kit Jogo Chaves Torx Imantada Cromo Vanádio Com Furo Guia T8 T10 T15 T20 T25 T27 T30 T40 T45 KITS COM 3,5,8 E 9 TORX",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mus1at6jrytc84",
-    "preco_antigo": 39.46,
-    "preco_novo": 36.97,
-    "desconto_percentual": 6.0,
-    "link_afiliado": "https://s.shopee.com.br/8KqsPl7g5O",
-    "detectada_em": "06/11/2026 17:55 UTC"
   }
 ]
