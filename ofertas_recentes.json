@@ -1,5 +1,25 @@
 [
   {
+    "id": "20930874281",
+    "nome": "Sapato Social Masculino Verniz + Cinto + Carteira Moda Evangélica",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz6441uxxpa9b5",
+    "preco_antigo": 99.9,
+    "preco_novo": 58.99,
+    "desconto_percentual": 41.0,
+    "link_afiliado": "https://s.shopee.com.br/7Af4bqVjN9",
+    "detectada_em": "14/11/2026 10:14 UTC"
+  },
+  {
+    "id": "58200799047",
+    "nome": "Martelo Demolidor 2000w Makita HM1812 (220v)",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82274-mhc1q8yz4jre91",
+    "preco_antigo": 19848.89,
+    "preco_novo": 18260.98,
+    "desconto_percentual": 8.0,
+    "link_afiliado": "https://s.shopee.com.br/AKc92izLOB",
+    "detectada_em": "14/11/2026 10:11 UTC"
+  },
+  {
     "id": "23392940195",
     "nome": "Disjuntor Bipolar Duplo Bifasico 2 Polos 25a, 32a, 40a, 63a, Din",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mq3fns1uqp6q2e",
@@ -178,25 +198,5 @@
     "desconto_percentual": 10.0,
     "link_afiliado": "https://s.shopee.com.br/8pnI2DaGNF",
     "detectada_em": "12/11/2026 09:43 UTC"
-  },
-  {
-    "id": "12257540743",
-    "nome": "Fita Crepe 3m Automotiva Mascaramento 18mm X 40m 3m - 1 Rolo",
-    "imagem": "https://cf.shopee.com.br/file/5c7e102b6601af519d3b806b227c7503",
-    "preco_antigo": 16.62,
-    "preco_novo": 13.99,
-    "desconto_percentual": 16.0,
-    "link_afiliado": "https://s.shopee.com.br/7Af43591ff",
-    "detectada_em": "12/11/2026 09:42 UTC"
-  },
-  {
-    "id": "19598686408",
-    "nome": "Tinta Látex Anti Mofo Coral Coralar Parede 3,6l Branco Galão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lingp0jbgdo514",
-    "preco_antigo": 117.74,
-    "preco_novo": 89.99,
-    "desconto_percentual": 24.0,
-    "link_afiliado": "https://s.shopee.com.br/2qW4t4QjbO",
-    "detectada_em": "12/11/2026 09:41 UTC"
   }
 ]
