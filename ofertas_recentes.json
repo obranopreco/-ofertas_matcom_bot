@@ -1,5 +1,45 @@
 [
   {
+    "id": "12257540743",
+    "nome": "Fita Crepe 3m Automotiva Mascaramento 18mm X 40m 3m - 1 Rolo",
+    "imagem": "https://cf.shopee.com.br/file/5c7e102b6601af519d3b806b227c7503",
+    "preco_antigo": 16.62,
+    "preco_novo": 14.13,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/W8GTNHLYm",
+    "detectada_em": "16/11/2026 20:17 UTC"
+  },
+  {
+    "id": "23794331212",
+    "nome": "Tupia Profissional 900W MAKITA RP0900 - 220v",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwr-mdq6gwxi0rwq2d",
+    "preco_antigo": 1694.12,
+    "preco_novo": 1440.0,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/1BNxz4MZZD",
+    "detectada_em": "16/11/2026 20:14 UTC"
+  },
+  {
+    "id": "23194331656",
+    "nome": "Pinca P Tupia 6mm Makita RP0900, RT0700C, DRT50, M3601 - 763636-3",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824i3-mpryd262ddlad1",
+    "preco_antigo": 142.86,
+    "preco_novo": 100.0,
+    "desconto_percentual": 30.0,
+    "link_afiliado": "https://s.shopee.com.br/ql7aSNqF7",
+    "detectada_em": "16/11/2026 20:14 UTC"
+  },
+  {
+    "id": "58264415639",
+    "nome": "Tupia Manual DCA AMP03-6 530W 1/4 Polegada Madeira Acabamento Corte Encaixe Marcenaria Obra Reforma",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqqfiysiig3n51",
+    "preco_antigo": 344.53,
+    "preco_novo": 223.95,
+    "desconto_percentual": 35.0,
+    "link_afiliado": "https://s.shopee.com.br/1BzsGFA1Y",
+    "detectada_em": "16/11/2026 20:14 UTC"
+  },
+  {
     "id": "22198895622",
     "nome": "Trena Digital a Laser 40m/60m Portátil com Display LCD Alta Precisão e Funções de Medição",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mpxzoklxx3b46b",
@@ -158,45 +198,5 @@
     "desconto_percentual": 6.0,
     "link_afiliado": "https://s.shopee.com.br/2BGP3OgbMS",
     "detectada_em": "14/11/2026 03:05 UTC"
-  },
-  {
-    "id": "23393585581",
-    "nome": "Disco Serra Circular para Madeira Apex Force 4.3/8 110mm 24 Dentes",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-msod44hs7e9wa6",
-    "preco_antigo": 16.9,
-    "preco_novo": 12.65,
-    "desconto_percentual": 25.0,
-    "link_afiliado": "https://s.shopee.com.br/70LgaxFTTa",
-    "detectada_em": "14/11/2026 03:00 UTC"
-  },
-  {
-    "id": "23598322956",
-    "nome": "Kit 5 Luvas Sanro Top Antiderrapante Para Limpeza Jardinagem Tamanho XG",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7hvk4eu5irwbe",
-    "preco_antigo": 85.5,
-    "preco_novo": 72.5,
-    "desconto_percentual": 15.0,
-    "link_afiliado": "https://s.shopee.com.br/8fTuHbqSpd",
-    "detectada_em": "13/11/2026 22:32 UTC"
-  },
-  {
-    "id": "58206011047",
-    "nome": "Kit 20 Discos de Corte VILA Aço Inox 4.1/2” 115mm Alta Performance profissional",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-msul0uqjerye41",
-    "preco_antigo": 44.0,
-    "preco_novo": 30.0,
-    "desconto_percentual": 32.0,
-    "link_afiliado": "https://s.shopee.com.br/2VtGwFf0bx",
-    "detectada_em": "13/11/2026 22:31 UTC"
-  },
-  {
-    "id": "23599698527",
-    "nome": "Disco De Corte Inox 4.1/2 Melfi 50 Unidades 115mm Para Metal Aço Inoxidável Esmerilhadeira Corte Rápido Profissional",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt9llmoximma44",
-    "preco_antigo": 57.0,
-    "preco_novo": 49.0,
-    "desconto_percentual": 14.0,
-    "link_afiliado": "https://s.shopee.com.br/2LZqjwfdwu",
-    "detectada_em": "13/11/2026 22:31 UTC"
   }
 ]
