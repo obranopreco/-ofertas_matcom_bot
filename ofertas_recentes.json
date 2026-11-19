@@ -1,5 +1,15 @@
 [
   {
+    "id": "21098316140",
+    "nome": "Politriz 2 Bateria 5000 Rpm 1000w Lixadeira Roto Orbital",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8h2iejdb0n95",
+    "preco_antigo": 359.92,
+    "preco_novo": 339.9,
+    "desconto_percentual": 6.0,
+    "link_afiliado": "https://s.shopee.com.br/4fxtnbilKM",
+    "detectada_em": "19/11/2026 21:20 UTC"
+  },
+  {
     "id": "23594925411",
     "nome": "Cabo Elétrico Bateria Marea 99/02 Original Fiat 46758736",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zub-mmkhctqj0tfz09",
@@ -188,15 +198,5 @@
     "desconto_percentual": 22.0,
     "link_afiliado": "https://s.shopee.com.br/114aXt5X3S",
     "detectada_em": "18/11/2026 13:46 UTC"
-  },
-  {
-    "id": "20930874281",
-    "nome": "Sapato Social Masculino Verniz + Cinto + Carteira Moda Evangélica",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz6441uxxpa9b5",
-    "preco_antigo": 99.9,
-    "preco_novo": 58.99,
-    "desconto_percentual": 41.0,
-    "link_afiliado": "https://s.shopee.com.br/80EGtkNKhU",
-    "detectada_em": "18/11/2026 04:10 UTC"
   }
 ]
