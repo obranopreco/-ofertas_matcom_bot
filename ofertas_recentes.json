@@ -1,5 +1,35 @@
 [
   {
+    "id": "23393177068",
+    "nome": "Martelo Unha 25mm Tramontina - 40370/025",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxe-lyc68cqi4m7o73",
+    "preco_antigo": 46.9,
+    "preco_novo": 42.68,
+    "desconto_percentual": 9.0,
+    "link_afiliado": "https://s.shopee.com.br/3B9A9EDJMW",
+    "detectada_em": "21/11/2026 17:20 UTC"
+  },
+  {
+    "id": "58207510488",
+    "nome": "Kit Tupia a Bateria 18V LXT Makita DRT50Z + Kit Energia 2 Baterias 6Ah + Carregador + Maleta KITMAK1860B",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bd-mt6pyqfjbojke7",
+    "preco_antigo": 3264.71,
+    "preco_novo": 2775.0,
+    "desconto_percentual": 15.0,
+    "link_afiliado": "https://s.shopee.com.br/7AfIuSNJXz",
+    "detectada_em": "21/11/2026 17:18 UTC"
+  },
+  {
+    "id": "58264385583",
+    "nome": "Esmerilhadeira Angular Lixadeira DCA 710W 115mm Corte Desbaste Metal Profissional Industrial",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqq9uxwjpaf497",
+    "preco_antigo": 252.86,
+    "preco_novo": 213.35,
+    "desconto_percentual": 16.0,
+    "link_afiliado": "https://s.shopee.com.br/4qHJzt9KdE",
+    "detectada_em": "21/11/2026 17:17 UTC"
+  },
+  {
     "id": "22798142837",
     "nome": "Kit 12 Ferramenta Entalhe Madeira Artesanato Escultura Formão Cinzel",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra21-m552plffd8sq80",
@@ -168,35 +198,5 @@
     "desconto_percentual": 10.0,
     "link_afiliado": "https://s.shopee.com.br/6fiyBQgF1O",
     "detectada_em": "20/11/2026 02:59 UTC"
-  },
-  {
-    "id": "9695860148",
-    "nome": "Kit Jogo De Chaves Combinadas 8 peças 6,8,9,10,12,13 e 15mm",
-    "imagem": "https://cf.shopee.com.br/file/faf04804d7664b01e417138bd3abbda9",
-    "preco_antigo": 62.59,
-    "preco_novo": 56.33,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/6q2ONjfbgR",
-    "detectada_em": "20/11/2026 02:59 UTC"
-  },
-  {
-    "id": "13537948795",
-    "nome": "Alicate De Pressão Boca Reta Cabo Emborrachado 10''",
-    "imagem": "https://cf.shopee.com.br/file/4a9a9450a48577ceb7e51357fde5d1f3",
-    "preco_antigo": 44.99,
-    "preco_novo": 40.49,
-    "desconto_percentual": 10.0,
-    "link_afiliado": "https://s.shopee.com.br/3LSWDHT0Md",
-    "detectada_em": "20/11/2026 02:58 UTC"
-  },
-  {
-    "id": "21098316140",
-    "nome": "Politriz 2 Bateria 5000 Rpm 1000w Lixadeira Roto Orbital",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8h2iejdb0n95",
-    "preco_antigo": 359.92,
-    "preco_novo": 339.9,
-    "desconto_percentual": 6.0,
-    "link_afiliado": "https://s.shopee.com.br/4fxtnbilKM",
-    "detectada_em": "19/11/2026 21:20 UTC"
   }
 ]
